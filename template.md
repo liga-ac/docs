@@ -11,4 +11,3 @@
 
 Conteactează-mă la adresa ✉ _&lt;email@domain.com&gt;_ sau mă găsești pe 🌐 _&lt;facebook.com/$id&gt;_!
 {% endhint %}
-
