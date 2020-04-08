@@ -2,5 +2,4 @@
 
 * [Despre Docs](README.md)
 * [Cum să contribui](contributions.md)
-* [Template](template.md)
 
