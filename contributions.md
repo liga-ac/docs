@@ -14,3 +14,11 @@ După ce ai descărcat template-ul \(nu-l modifica!\) intri la`New > Import > Br
 
 ## ✒ Workflow
 
+_În lucru._
+
+{% hint style="warning" %}
+## Întâmpini dificultăți?
+
+Conteactează-ne la adresa ✉ [contact@ligaac.ro](mailto:contact@ligaac.ro), trimite-ne un mesaj pe [Facebook](https://www.messenger.com/t/liga100ac), sau lasă un [Issue pe GitHub](https://github.com/ligaac/docs/issues/new)!
+{% endhint %}
+
