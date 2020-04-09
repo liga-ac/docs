@@ -1,4 +1,18 @@
+---
+description: >-
+  Ești interesat să îți împărtășești cunoștințele cu colegii tăi? Află de aici
+  cum poți începe să contribui!
+---
+
 # Cum să contribui
+
+Deoarece dorim ca educația de calitate să fie valabilă oricum, vrem să oferim șansa tuturor să își împărtășească cunoștințele! 
+
+{% hint style="warning" %}
+### Nu ești din organizație?
+
+Poți contribui prin [GitHub](https://github.com/ligaac/docs)! Mergi direct la [secția GitHub](https://docs.ligaac.ro/contributions/#github).
+{% endhint %}
 
 ## 📃 Template
 
@@ -14,7 +28,13 @@ După ce ai descărcat template-ul \(nu-l modifica!\) intri la`New > Import > Br
 
 ## ✒ Workflow
 
-_În lucru._
+_\*În lucru._
+
+## 🙀 GitHub
+
+\*_va trebui să editezi în markdown, fork la repo-u de pe git, pull-request cu articolul în format .md_
+
+{% embed url="https://stackedit.io/app\#" %}
 
 {% hint style="warning" %}
 ## Întâmpini dificultăți?
