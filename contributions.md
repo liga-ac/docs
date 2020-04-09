@@ -91,6 +91,6 @@ Nu te teme, poți scoate din arhivă documente oricând! Intră doar în tab-ul 
 {% hint style="warning" %}
 ## Întâmpini dificultăți?
 
-Scrie pe grupul de **Facebook**, sau lasă un [**Issue pe GitHub**](https://github.com/ligaac/docs/issues/new)!.
+Scrie pe grupul de **Facebook**  sau lasă un [**Issue pe GitHub**](https://github.com/ligaac/docs/issues/new)!.
 {% endhint %}
 
