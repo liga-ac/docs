@@ -66,14 +66,14 @@ Drafts that are saved and not merged yet can be seen by clicking on the `edit ic
 
 ![](https://gblobscdn.gitbook.com/assets%2Fgitbook%2F-Lt-wrCgCEVSU-XMHqbn%2F-Lt-xiFpoXVr7xR8u_zN%2Fimage.png?alt=media&token=bdbaa264-996e-4a0e-b9fd-a3ae1158e888)
 
-### ​👌Merge edits
+### ​👌 Edit merge
 
-When you finish editing, you can "**merge**" your draft. The content you wrote or the changes you made will then be available for your team members and/or be public.You can merge your draft by clicking on the bottom card or by clicking on the ✏️icon.
+Atunci când termini de scris un articol, îi poți face "**merge"** \(trad. _a îmbina_\) în conținutul public. Toate modificările pe care le-ai făcut vor fi apoi vizibile, atât de ceilalți membri, cât și de public.
 
 ![](https://gblobscdn.gitbook.com/assets%2Fgitbook%2F-Lt-wrCgCEVSU-XMHqbn%2F-Lt-xxymsAt75k_E4-x9%2Fassets_-LjqEs59tx3tzs90Rqcl_-LreVC_Aw2YYl_iJkQHj_-LreW9H9qOqbo2DB9mgj_merged-draft.gif?alt=media&token=ad875929-fddc-433f-9fd8-c4e8f424510c)
 
-{% hint style="info" %}
-🧙 **Tips:** It's the button you should use when your content is **completely ready to be shared with anyone**. ✨ If you don't feel ready to publish, you can just save your content. You can also "**merge**" your draft by pressing **cmd+Shift+S** on Windows or **⌘⇧S** on Mac.
+{% hint style="warning" %}
+**Atenție:** Folosiți funcția de **"merge**" numai atunci când știți că modificările sunt finale și gata să fie publice. Dacă nu sunteți siguri că ceva e ok, **e destul să salvați modificările** fără "**merge"**. De asemenea, puteți face "**merge**" cu combinația **Ctrl+Shift+S** în Windows sau **⌘⇧S** pe Mac.
 {% endhint %}
 
 Drafts that have been merged can be accessed by clicking on the `edits icon > Merged`. You can then see the entire activity log or [restore](https://docs.gitbook.com/collaboration/restore-a-draft) a merged draft.
