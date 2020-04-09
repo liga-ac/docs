@@ -1,2 +1,2 @@
-# 📖 Curpins
+# 📖 Table of Contents
 

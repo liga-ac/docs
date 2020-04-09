@@ -1,4 +1,4 @@
-# ❓ Întrebări și răspunsuri
+# ❓ Questions and answers
 
 ## 🤷‍♂️ Ce e aici?
 

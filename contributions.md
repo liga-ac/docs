@@ -4,7 +4,7 @@ description: >-
   cum poți începe să contribui!
 ---
 
-# ✍ Cum să contribui
+# ✍ How to contribute
 
 Deoarece dorim ca educația de calitate să fie valabilă oricum, vrem să oferim șansa tuturor să își împărtășească cunoștințele! 
 

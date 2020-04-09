@@ -1,10 +1,10 @@
 # Table of contents
 
 * [📚 About Docs](README.md)
-* [✍ Cum să contribui](contributions.md)
-* [❓ Întrebări și răspunsuri](intrebari-si-raspunsuri.md)
+* [✍ How to contribute](contributions.md)
+* [❓ Questions and answers](intrebari-si-raspunsuri.md)
 
 ## Docs
 
-* [📖 Curpins](docs/curpins.md)
+* [📖 Table of Contents](docs/curpins.md)
 
