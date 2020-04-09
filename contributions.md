@@ -28,7 +28,7 @@ După ce ai descărcat template-ul \(nu-l modifica!\) intri la`New > Import > Br
 
 ## ✒ Workflow GitBook
 
-_\*În lucru._
+GitBook oferă un editor de text vizual, puternic și foarte ușor de folosit.
 
 We designed a **simple and instant editor**. Once on a page, you can just start typing!
 
