@@ -30,9 +30,7 @@ După ce ai descărcat template-ul \(nu-l modifica!\) intri la`New > Import > Br
 
 GitBook oferă un editor de text vizual, puternic și foarte ușor de folosit.
 
-We designed a **simple and instant editor**. Once on a page, you can just start typing!
-
-We listed some key points to get an overview of GitBook's workflow to kick off your project.
+În următoarele secțiuni, este descris pe scurt flow-ul de editare de conținut pe GitBook. _Conținutul din aceste secțiuni a fost preluat în mare parte din_ [_documentația GitBook_](https://docs.gitbook.com).
 
 {% hint style="info" %}
 Poți accesa modul de editare apăsând pe iconița ✏️ din sidebar 👈.
@@ -42,17 +40,17 @@ Poți accesa modul de editare apăsând pe iconița ✏️ din sidebar 👈.
 
 ![](https://gblobscdn.gitbook.com/assets%2Fgitbook%2F-Lt-wrCgCEVSU-XMHqbn%2F-Lt-xI4hxZkvav5xYF1g%2Fassets_-LjqEs59tx3tzs90Rqcl_-LreTR402wEWfd7o4QNA_-LreTVe1vT-bx1GPHoRF_creation-draft.gif?alt=media&token=297f175a-b8d4-480b-946b-90afe0327eb4)
 
-A draft is an **editable** version of your content only accessible by your [members](https://docs.gitbook.com/collaboration/team-management#invite-members-to-your-organization), and is automatically created once you start writing \(first letter on the editor, creation of a new page, uploading a picture, etc.\).
+Principalele fișiere în care se lucrează sunt **draft-urile**. Acestea sunt vizivile numai de restul colaboratorilor/autorilor.
 
-Changes made on a **draft are proper to it** which allows you to contribute on the same document with other members simultaneously without creating any conflicts! This is what we call asynchronous editing and conflict resolution.
+Modificările făcute într-un draft sunt **izolate pe acel draft**. Adică dacă 2 sau mai multe persoane lucrează pe același document, puteți salva fiecare draft-urile lui fără să apară conflicte. Atenție totuși, atunci când faceți **merge** iar între timp a făcut și altă persoană **merge**, vor apărea conflicte deoarece voi nu veți avea modificările celeilalte persoane. Din fericire, GitBook [oferă ajutor vizual în rezolvarea conflictelor](https://docs.gitbook.com/collaboration/conflict-resolution)!
 
 {% hint style="info" %}
-​🧙 **Tips:** Name each draft to know what you have been working on. This will help you to know what a draft is about and helps you maintain a better overview of changes.
+​🧙 **Tip:** Dă o denumire fiecărui draft pe care lucrezi. Acesta te va ajuta și pe tine, dar și pe restul colaboratorilor în a ști despre ce e vorba în document.
 {% endhint %}
 
-### ​✅ Save edits
+### ​✅ Salvarea modificărilor
 
-The first version of draft isn't always ready to be published straight away. Use "**save**" when you want to continue your work later, or if your content is not yet ready to be "[merged](https://docs.gitbook.com/editing-content/editing-pages#merge-edits)".
+Prima variantă a unui draft cel mai probabil nu va fi nici varianta finală. Folosește funcția "**save**" și vei putea **continua lucrul mai târziu** sau se va putea uita și altcineva să îți dea feedback.
 
 ![](https://gblobscdn.gitbook.com/assets%2Fgitbook%2F-Lt-wrCgCEVSU-XMHqbn%2F-Lt-xZ7X92uZnaD6Ykgs%2Fimage.png?alt=media&token=69e7f080-76ea-43e3-917b-745eafd48379)
 
@@ -62,11 +60,11 @@ The first version of draft isn't always ready to be published straight away. Use
 🧙 **Tip:** 📝Poți da "**save**" apăsând **ctrl+S** on Windows sau **⌘S** pe Mac.
 {% endhint %}
 
-Drafts that are saved and not merged yet can be seen by clicking on the `edit icon`on the sidebar. You can select your draft from here to continue working. You can also see if your colleagues left reviews and merged any drafts.
+Orice draft poate fi accesat în meniul din sidebar de edit. De aici îți poți selecta draft-ul și poți continua lucrul. Poți vedea și dacă ceilalți ți-au lăsat **comentarii sau feedback**!
 
 ![](https://gblobscdn.gitbook.com/assets%2Fgitbook%2F-Lt-wrCgCEVSU-XMHqbn%2F-Lt-xiFpoXVr7xR8u_zN%2Fimage.png?alt=media&token=bdbaa264-996e-4a0e-b9fd-a3ae1158e888)
 
-### ​👌 Edit merge
+### ​👌 Merge-ul
 
 Atunci când termini de scris un articol, îi poți face "**merge"** \(trad. _a îmbina_\) în conținutul public. Toate modificările pe care le-ai făcut vor fi apoi vizibile, atât de ceilalți membri, cât și de public.
 
@@ -76,23 +74,13 @@ Atunci când termini de scris un articol, îi poți face "**merge"** \(trad. _a 
 **Atenție:** Folosiți funcția de **"merge**" numai atunci când știți că modificările sunt finale și gata să fie publice. Dacă nu sunteți siguri că ceva e ok, **e destul să salvați modificările** fără "**merge"**. De asemenea, puteți face "**merge**" cu combinația **Ctrl+Shift+S** în Windows sau **⌘⇧S** pe Mac.
 {% endhint %}
 
-Drafts that have been merged can be accessed by clicking on the `edits icon > Merged`. You can then see the entire activity log or [restore](https://docs.gitbook.com/collaboration/restore-a-draft) a merged draft.
-
-**You can learn more about the restoring feature** 👉 **here:**[Restore a draft/collaboration/restore-a-draft](https://docs.gitbook.com/collaboration/restore-a-draft)
-
 ### ​🗃 Arhivarea draft-urilor
 
-You can archive drafts that have not been merged and never will be by selecting it and click on **"archive"**. The archived draft will be then moved to the `archived tab`.
+Poți arhiva orice draft care nu va mai ajunge niciodată public apăsând pe butonul **"archive"**. Draft-ul arhivat va ajunge apoi în tab-ul `archived`.
 
 ![](https://gblobscdn.gitbook.com/assets%2Fgitbook%2F-Lt-wrCgCEVSU-XMHqbn%2F-Lt-yamO_NIV1yDzlUSi%2Fimage.png?alt=media&token=09388930-bb6c-4436-ab17-b0ace6c9139a)
 
-If you need to get your archived draft back, you can reopen it any time! Just click on the `Archived` tab and open the options menu.You can reopen a draft if there's some information you need to get back
-
-![](https://gblobscdn.gitbook.com/assets%2Fgitbook%2F-Lt-wrCgCEVSU-XMHqbn%2F-Lt-ygvgrkWMBO4SOs_L%2Fimage.png?alt=media&token=dd849353-83c8-47b4-9868-3665d51227d4)
-
-{% hint style="info" %}
-🧙 **Tips:** You can delete a draft on GitBook just after being archived. Follow the instructions above and click on **"Delete"**. This is a secure way to avoid accidental content loss.
-{% endhint %}
+Nu te teme, poți scoate din arhivă documente oricând! Intră doar în tab-ul `archived` și accesează meniul de opțiuni de la draft-ul respectiv. Poți redeschide un draft oricând dacă ai nevoie de ceva conținut din el.
 
 ## 🙀 GitHub
 
@@ -103,6 +91,6 @@ If you need to get your archived draft back, you can reopen it any time! Just cl
 {% hint style="warning" %}
 ## Întâmpini dificultăți?
 
-Scrie pe grupul de **Facebook**, sau lasă un [**Issue pe GitHub**](https://github.com/ligaac/docs/issues/new)!
+Scrie pe grupul de **Facebook**, sau lasă un [**Issue pe GitHub**](https://github.com/ligaac/docs/issues/new)!.
 {% endhint %}
 
