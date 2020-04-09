@@ -2,7 +2,7 @@
 description: Inițiativa Ligii AC de a face educația de calitate deschisă tuturor!
 ---
 
-# 📚 Despre Docs
+# 📚 About Docs
 
 > **Educația de calitate** trebuie să fie ușor de accesat, de oriunde, de oricând, de **oricine**.
 
