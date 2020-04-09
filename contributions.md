@@ -4,7 +4,7 @@ description: >-
   cum poți începe să contribui!
 ---
 
-# Cum să contribui
+# ✍ Cum să contribui
 
 Deoarece dorim ca educația de calitate să fie valabilă oricum, vrem să oferim șansa tuturor să își împărtășească cunoștințele! 
 
@@ -39,6 +39,6 @@ _\*În lucru._
 {% hint style="warning" %}
 ## Întâmpini dificultăți?
 
-Conteactează-ne la adresa ✉ [contact@ligaac.ro](mailto:contact@ligaac.ro), trimite-ne un mesaj pe [Facebook](https://www.messenger.com/t/liga100ac), sau lasă un [Issue pe GitHub](https://github.com/ligaac/docs/issues/new)!
+Scrie pe grupul de **Facebook**, sau lasă un [**Issue pe GitHub**](https://github.com/ligaac/docs/issues/new)!
 {% endhint %}
 
