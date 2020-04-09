@@ -1,8 +1,12 @@
 ---
-description: Inițiativa Ligii AC de a face educația de calitate deschisă tuturor!
+description: 'Ligii AC initiative of making education available for all, for free!'
 ---
 
 # 📚 About Docs
+
+{% hint style="danger" %}
+**English version not yet created!**
+{% endhint %}
 
 > **Educația de calitate** trebuie să fie ușor de accesat, de oriunde, de oricând, de **oricine**.
 
