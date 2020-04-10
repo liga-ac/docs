@@ -10,7 +10,7 @@ description: Inițiativa Ligii AC de a face educația de calitate deschisă tutu
 
 Noi, membrii ai Ligii AC am început această inițiativă de crea conținut educațional pentru voi, studenții care doriți să vă dezvoltați, elevii cu visuri mari, dar și vecinul de la 4 care te-ai decis să înveți ceva nou!😉 
 
-{% page-ref page="docs/curpins.md" %}
+{% page-ref page="docs/cuprins.md" %}
 
 ## 🌍 Educație de oriunde
 
