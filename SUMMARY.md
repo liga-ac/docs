@@ -5,5 +5,5 @@
 
 ## Docs
 
-* [📖 Curpins](docs/curpins.md)
+* [📖 Cuprins](docs/curpins.md)
 
