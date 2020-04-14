@@ -18,7 +18,7 @@ Poți contribui prin [**GitHub**](https://github.com/ligaac/docs)! Mergi direct 
 
 Înainte să îți creezi un nou fișier ai nevoie de template-ul oficial pe care lucrăm. **Template-ul conține un footer standard**, în care va trebui să îți introduci datele de contact \(email, Facebook, etc.\). Orice cititor care nu înțelege ceva va avea nevoie de sprijin.
 
-Așadar, considerăm că intră în atribuțiile autorilor să ajute cititorii în momentul în care ei nu înțeleg ceva și au nevoie de ajutor. De asemenea, dacă nu doriți să fiți contactați, atunci va trebui să explicați bine 😉.
+Așadar, considerăm că intră în atribuțiile autorilor să ajute cititorii în momentul în care ei nu înțeleg ceva și au nevoie de ajutor. De asemenea, dacă nu doriți să fiți contactați, atunci va trebui să explicați foarte bine 😉.
 
 {% file src=".gitbook/assets/template.md" caption="Descarcă Template" %}
 
@@ -84,7 +84,7 @@ Nu te teme, poți scoate din arhivă documente oricând! Intră doar în tab-ul 
 
 ## 🙀 GitHub
 
-\*_va trebui să editezi în markdown, fork la repo-ul de pe git, faci materialul cu ajutorul StackEdit sau alt editor de markdown, apoi pull-request cu articolul în format .md_
+\*_va trebui să editezi în markdown, fork la repo-ul de pe git, editezi materialul cu ajutorul StackEdit sau alt editor de markdown, apoi pull-request cu articolul în format .md_
 
 {% embed url="https://stackedit.io/app\#" %}
 
