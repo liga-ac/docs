@@ -84,7 +84,7 @@ Nu te teme, poți scoate din arhivă documente oricând! Intră doar în tab-ul 
 
 ## 🙀 GitHub
 
-\*_va trebui să editezi în markdown, fork la repo-u de pe git, pull-request cu articolul în format .md_
+\*_va trebui să editezi în markdown, fork la repo-ul de pe git, faci materialul cu ajutorul StackEdit sau alt editor de markdown, apoi pull-request cu articolul în format .md_
 
 {% embed url="https://stackedit.io/app\#" %}
 
