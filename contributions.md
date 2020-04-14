@@ -11,7 +11,7 @@ Deoarece dorim ca educația de calitate să fie valabilă oricum, vrem să oferi
 {% hint style="warning" %}
 ### Nu ești din organizație?
 
-Poți contribui prin [**GitHub**](https://github.com/ligaac/docs)! Mergi direct la [**secțiunea GitHub**](https://docs.ligaac.ro/contributions/#github) ****ca să afli mai multe.
+Poți contribui prin [**GitHub**](https://github.com/ligaac/docs)! Mergi direct la [**secțiunea GitHub**](contributions.md#github) ****ca să afli mai multe.
 {% endhint %}
 
 ## 📃 Template
