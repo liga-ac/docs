@@ -8,7 +8,7 @@ description: Inițiativa Ligii AC de a face educația de calitate deschisă tutu
 
 ![Imagine de @element5digital pe Unsplash](.gitbook/assets/image.png)
 
-Noi, membrii ai Ligii AC am început această inițiativă de crea conținut educațional pentru voi, studenții care doriți să vă dezvoltați, elevii cu visuri mari, dar și vecinul de la 4 care te-ai decis să înveți ceva nou!😉 
+Noi, membrii ai Ligii AC am început această inițiativă de crea conținut educațional pentru voi, studenții care doriți să vă dezvoltați, elevii cu visuri mari, dar și vecinului de la 4 cu care te-ai decis să înveți ceva nou!😉 
 
 {% page-ref page="docs/cuprins.md" %}
 
@@ -22,5 +22,5 @@ E pauză de reclame la Asia Express? Nici o problemă! Poți folosi aceste 5 min
 
 ## 👨‍👩‍👧‍👦 Educație de oricine
 
-**Chiar și tu poți contribui!** Incredibil, așa-i? Deoarece educația trebuie să fie deschisă tuturor, dorim să oferim șansa oricum să contribuie și să ne ajute în a avea conținut cât mai calitativ, relevant și interesant.
+**Chiar și tu poți contribui!** Incredibil, așa-i? Deoarece educația trebuie să fie deschisă tuturor, dorim să oferim șansa oricum să contribuie și să ne ajute în a avea conținut cât mai calitativ, relevant și interesant. Vezi în pagina următoare ce trebuie să faci 😉 
 
