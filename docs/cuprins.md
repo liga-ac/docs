@@ -1,10 +1,10 @@
 # 📖 Cuprins
 
-## Categorie 1
+## Despre...
 
 {% page-ref page="../" %}
 
 {% page-ref page="../contributions.md" %}
 
-## Categorie 2
+## Git
 
