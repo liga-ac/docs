@@ -2,12 +2,14 @@
 
 ## 🏁 Finalizate
 
-* [x] GitHub Student Pack
 * [x] Ce este Git
+* [x] GitHub Student Pack
 
 ## 🔨 În lucru
 
-* [ ] Cum rezolvi erori în programul tău
+* [ ] Cum rezolvi erori în programul tău.
+* [ ] JetBrains şi setul lor de scule.
+* [ ] Coding guidelines.
 
 ## 👩‍🏫 Propuneri
 
