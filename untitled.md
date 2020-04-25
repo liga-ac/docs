@@ -12,6 +12,13 @@ description: >-
 
 _**JetBrains**_ este o companie de dezvoltare software, ale cărei instumente se adresează în special dezvoltatorilor software și managerilor de proiecte. Încă din 2000 când au intrat pe piață, lucrează la dezvoltarea celor mai puternice și eficiente instrumente de dezvoltare de pe planetă. 
 
+* În prezent compania oferă _**28 de produse**_, care folosesc cele mai importante limbaje de programare și tehnologii. Cele mai folosite limbaje de programare sunt _**Java, C\#, PHP, C++, Python, JavaScript etc.**_ 
+* Au dezvoltat propriile limbaje de programare: _**Koltin**_ și **MPS,** precum și o aplicație de management pentru instrumentele pe care le livrează-_**ToolBox App**_. 
+
+{% hint style="info" %}
+_**Studenții au acces gratuit la instrumentele JetBrains și pot accesa licențele pentru aceste instrumente cu ajutorul mailului de student, oferit de Universitatea la care studiază.**_
+{% endhint %}
+
 ![JetBrains Logo](.gitbook/assets/jetbrains_logo_2016.svg)
 
 **Cei de la JetBrains susțin că indiferent de tehnologiile pe care le folosim, vom găsi un instrument JetBrains care să ne ajute. Haide să vedem despre ce este vorba :&gt;**
