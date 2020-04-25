@@ -4,7 +4,9 @@ description: Cel mai folosit sistem de versionare a codului sursă.
 
 # Git - istoria fişierelor tale
 
-Să zicem că avem de lucrat la un proiect pentru facultate. Cerința proiectului este destul de simplă:
+## O scurtă introducere
+
+Să zicem că avem de lucrat la un proiect pentru facultate. Cerința proiectului este destul de simplă: 
 
 > În echipe de câte 3 persoane, fiecare echipă are de realizat o aplicație web care caută meme-uri pe internet și le afișează.
 
@@ -14,13 +16,17 @@ Bineînțeles, pentru a rezolva aceste probleme, după ce scriem ceva cod și su
 
 Acest proces ar fi extrem de epuziant... dar de aceea există **Git**!
 
-## Ce vom învăța în această serie de tutoriale?
+## Ce vom învăța
 
 **Ce este git?** Vom trece pe scurt prin definiția Git, de ce avem nevoie de el, cine îl mai folosește și vom afla cine l-a creat.
 
 **Cum instalăm Git.** Vom trece prin procesul de instalare atât pe Windows, Mac și Linux.
 
-**Primii pași în Git.** Vom inițializa un proiect, vedem care sunt comenzile de bază și vom încerca să înțelegem procesul git.
+**Primii pași în Git.** Vom inițializa un proiect cu `git init`, vedem care sunt comenzile de bază și vom încerca să înțelegem procesul de lucru cu git.
 
-**Colaborarea în Git.** Creăm un proiect pe GitHub pentru a-l putea folosi cu colegii de proiect, și vom vedea cum pot și ei să își descarce codul sursă.
+**Colaborarea în Git.** Vom folosi GitHub pentru a putea colabora cu alți colegi, vom crea branch-uri noi, vedem ce este `git merge` , `git pull` , `git fetch` , etc.
+
+## De ce avem nevoie
+
+Nu prea multe, conexiune la internet \(pe care o ai deja dacă citești asta\), un calculator, fie el cu Linux, MacOS sau Windows, și cel mai important, **dorința de a învăța**!
 

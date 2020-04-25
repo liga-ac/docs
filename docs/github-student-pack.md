@@ -7,9 +7,9 @@ description: >-
 
 # GitHub Student Pack
 
-        Așa cum ți-ai dat seama acest pachet este o posibilitate de a obține programele necesare proiectelor și hobby-urilor tale. Iar totul este gratuit, so yea, why not?
+Așa cum ți-ai dat seama acest pachet este o posibilitate de a obține programele necesare proiectelor și hobby-urilor tale. Iar totul este gratuit, so yea, why not?
 
-        Pentru început trebuie să:
+Pentru început trebuie să:
 
 * îți creezi un cont **GitHub** cu mail-ul **de student** primit de la universitatea ta, uite un [shortcut ](https://github.com/join)😎.
 * acesezi pagina de la [GitHub Student Pack](https://education.github.com/pack) , unde apeși pe butonul **Get the Pack** .
@@ -22,9 +22,9 @@ description: >-
 
 ![](../.gitbook/assets/exemplu2%20%282%29.png)
 
-**Exemplu text**: " I want to use GitHub student pack for my university's projects along with my colleagues. It brings me a multiple opportunities and can really help me at studying better."
+**Exemplu text**: "I want to use GitHub student pack for my university's projects along with my colleagues. It brings me a multiple opportunities and can really help me at studying better."
 
-        În scurt timp ar trebui să primești un email de confirmare de la GitHub precum că ai primit pachetul de student GitHub pentru contul tău. 
+În scurt timp ar trebui să primești un email de confirmare de la GitHub precum că ai primit pachetul de student GitHub pentru contul tău. 
 
 {% hint style="warning" %}
 ## Întâmpini dificultăți?
