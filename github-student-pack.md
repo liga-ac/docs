@@ -1,20 +1,20 @@
 ---
 description: >-
-  GitHub Student Pack este o oportunitate de a obține un pachet de tool-uri, cu
-  licență, oferite studenților în mod gratuit. Pachetul conține tool-uri precum:
+  GitHub Student Pack este o oportunitate de a obține un pachet de programe cu
+  licență oferite studenților în mod gratuit. Pachetul conține tool-uri precum:
   JetBrains, Arduino, GitKraken și altele.
 ---
 
 # GitHub Student Pack
 
-        Așa cum ți-ai dat seama acest pachet este o oportunitate de a obține tool-urile necesare proiectelor tale și privește partea buna, totul este gratuit, so yea, why not?
+        Așa cum ți-ai dat seama acest pachet este o posibilitate de a obține programele necesare proiectelor și hobby-urilor tale. Iar totul este gratuit, so yea, why not?
 
         Pentru început trebuie să:
 
-* îți creezi un cont **GitHub** cu adresa ta mail **de student**, uite un [shortcut ](https://github.com/join)😎.
+* îți creezi un cont **GitHub** cu mail-ul **de student** primit de la universitatea ta, uite un [shortcut ](https://github.com/join)😎.
 * acesezi pagina de la [GitHub Student Pack](https://education.github.com/pack) , unde apeși pe butonul **Get the Pack** .
-* apeși pe butonul **Get Student Benefits.**
-* pe pagina deschisă bifează casuăa de la **Student** si casuăa de langă **adresa ta de mail.**
+* apoi apeși pe butonul **Get Student Benefits.**
+* iar pe pagina deschisă bifează casuța de la **Student** si casuța de langă **adresa ta de mail.**
 
 ![](.gitbook/assets/exemplu1.png)
 
@@ -24,11 +24,11 @@ description: >-
 
 **Exemplu text**: " I want to use GitHub student pack for my university's projects along with my colleagues. It brings me a multiple opportunities and can really help me at studying better."
 
-        În scurt timp ar trebui să primești un email de confirmare de la GitHub.
+        În scurt timp ar trebui să primești un email de confirmare de la GitHub precum că ai primit pachetul de student GitHub pentru contul tău. 
 
 {% hint style="warning" %}
 ## Întâmpini dificultăți?
 
-Conteactează-mă la adresa ✉ david.lacatusu@ligaac.ro sau mă găsești pe 🌐 [https://www.facebook.com/David.Lacatusu16](https://www.facebook.com/David.Lacatusu16)
+Conteactează-mă la adresa ✉ david.lacatusu@ligaac.ro sau mă găsești pe 🌐 [Facebook](https://www.facebook.com/David.Lacatusu16)
 {% endhint %}
 
