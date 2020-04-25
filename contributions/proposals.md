@@ -1,7 +1,7 @@
 ---
 description: >-
   Ai avut vreodată nevoie de ajutor şi nu găseai răspuns nicăieri? Fii acum mai
-  bun şi oferă răspunsuri altora!
+  bun şi oferă răspunsuri celorlalţi!
 ---
 
 # Contribuie şi tu!
