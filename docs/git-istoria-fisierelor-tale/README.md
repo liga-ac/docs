@@ -18,13 +18,17 @@ Acest proces ar fi extrem de epuziant... dar de aceea există **Git**!
 
 ## Ce vom învăța
 
-**Ce este git?** Vom trece pe scurt prin definiția Git, de ce avem nevoie de el, cine îl mai folosește și vom afla cine l-a creat.
+\*\*\*\*[**Ce este git?**](ce-este-git.md) Vom trece pe scurt prin definiția Git, de ce avem nevoie de el, cine îl mai folosește și vom afla cine l-a creat.
 
-**Cum instalăm Git.** Vom trece prin procesul de instalare atât pe Windows, Mac și Linux.
+\*\*\*\*[**Cum instalăm Git**](cum-instalam-git.md)**.** Vom trece prin procesul de instalare atât pe Windows, Mac și Linux.
 
-**Primii pași în Git.** Vom inițializa un proiect cu `git init`, vedem care sunt comenzile de bază și vom încerca să înțelegem procesul de lucru cu git.
+\*\*\*\*[**Primii pași în Git**](primii-pasi-in-git.md)**.** Vom inițializa un proiect cu `git init`, explicăm câțiva termeni de bază și intrăm în cele mai basic comenzi.
 
-**Colaborarea în Git.** Vom folosi GitHub pentru a putea colabora cu alți colegi, vom crea branch-uri noi, vedem ce este `git merge` , `git pull` , `git fetch` , etc.
+\*\*\*\*[**Procesul de lucru cu Git**](procesul-de-lucru-cu-git.md).
+
+\*\*\*\*[**GitHub**](github.md)**.** Vom folosi GitHub pentru a putea colabora cu alți colegi, vedem cum clonăm repo-ul, cum facem modificări în el, ce sunt Issue-urile, vorbim pe scurt despre Pull Request-uri și vom încheia cu câteva tips & tricks.
+
+\*\*\*\*[**Resurse utile**](resurse-utile.md)**.** Am lăsat aici câteva link-uri utile de care să vă folosiți în aventura voastră cu Git.
 
 ## De ce avem nevoie
 
