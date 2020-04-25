@@ -8,3 +8,5 @@
 
 * [📖 Cuprins](docs/cuprins.md)
 
+## Utile
+
