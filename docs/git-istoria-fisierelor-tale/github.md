@@ -1,4 +1,0 @@
-# GitHub
-
-## Ce este GitHub?
-
