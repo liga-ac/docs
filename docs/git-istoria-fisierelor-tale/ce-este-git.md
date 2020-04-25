@@ -10,7 +10,7 @@ Git este un **Sistem de Versionare** a codului sursă. În termeni simpli, acest
 
 De exemplu, lucrând la proiectul tău, în timp faci modificări în diferite locuri, unele lucruri mai ajung să se strice, dar tu ții minte că acum o săptămână bucata aia de cod mergea perfect, dar nu știi ce ai făcut greșit de acum nu mai merge. Aici git te poate ajuta să revii la codul de atunci și să vezi ce modificări ar fi putut cauza probleme.
 
-Bineînțeles, Git nu ar fi atât de folositor dacă nu l-ai putea folosi cu colegii tăi de proiect. De aceea, Git este structurat ca un sistem distribuit - adică atât codul sursă cât și toate versiunile lui anterioare sunt prezente pe calculatoarele tuturor care lucrează la proiect. Platforme de genul [**GitHub**](https://github.com/), [**GitLab**](https://gitlab.com) **\*\*sau \[**BitBucket\*\*\]\([https://bitbucket.com](https://bitbucket.com)\) facilitează acest proces.
+Bineînțeles, Git nu ar fi atât de folositor dacă nu l-ai putea folosi cu colegii tăi de proiect. De aceea, Git este structurat ca un sistem distribuit - adică atât codul sursă cât și toate versiunile lui anterioare sunt prezente pe calculatoarele tuturor care lucrează la proiect. Platforme de genul [**GitHub**](https://github.com/), [**GitLab**](https://gitlab.com) sau BitBucket facilitează acest proces.
 
 {% hint style="warning" %}
 **Atenție:** A **nu** se confunda Git cu platformele GitHub, GitLab, etc. Git este un sistem de versionare iar platformele respective facilitează procesul de distribuire a codului sursă.
