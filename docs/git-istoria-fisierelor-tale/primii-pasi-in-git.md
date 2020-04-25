@@ -1,6 +1,6 @@
 # Primii paşi în Git
 
-
+În acest capitol vom vedea câteva comenzi de bază ale git, vom trece prin ele destul de succint și ca să înțelegeți mai bine tot procesul, ar fi recomandat să vă jucați puțin mai mult cu comenzile să vă intre puțin în reflex.
 
 {% hint style="info" %}
 Vom folosi termeni în limba engleză exclusiv deoarece așa îi veți găsi peste tot pe internet și vă va fi mai ușor să folosiți git.
