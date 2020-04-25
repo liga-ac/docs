@@ -4,7 +4,7 @@ description: >-
   oferă și cum să ne activăm licența JetBrains cu ajutorul GitHub Student Pack.
 ---
 
-# JetBrains&Tools
+# JetBrains & Tools
 
 ## Despre JetBrains 🧐 
 

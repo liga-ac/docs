@@ -14,8 +14,8 @@
   * [Procesul de lucru cu Git](docs/git-istoria-fisierelor-tale/procesul-de-lucru-cu-git.md)
   * [GitHub](docs/git-istoria-fisierelor-tale/github.md)
   * [Resurse utile](docs/git-istoria-fisierelor-tale/resurse-utile.md)
-* [GitHub Student Pack](docs/github-student-pack.md)
-* [JetBrains&Tools](docs/untitled.md)
+* [GitHub Student Pack](github-student-pack/README.md)
+  * [JetBrains & Tools](github-student-pack/untitled.md)
 
 ## Utile
 
