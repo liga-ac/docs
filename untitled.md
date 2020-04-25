@@ -25,15 +25,15 @@ _**JetBrains**_ este o companie de dezvoltare software, ale cărei instumente se
     <tr>
       <th style="text-align:left">Aplica&#x21B;ie gratuit&#x103; destinat&#x103; gestion&#x103;rii instrumentelor
         &#x219;i proiectelor &#xEE;ntr-un mod inteligent &#x219;i cu un efort c&#xE2;t
-        mai redus, simplific&#x103; instalarea &#x219;i actualizarea instrumentelor.</th>
-      <th
-      style="text-align:right">
+        mai redus, simplific&#x103; instalarea &#x219;i actualizarea tuturor instrumentelor
+        oferite de JetBrains.</th>
+      <th style="text-align:right">
         <p></p>
         <p></p>
         <p>
           <img src=".gitbook/assets/logo-text.png" alt/>
         </p>
-        </th>
+      </th>
     </tr>
   </thead>
   <tbody></tbody>
