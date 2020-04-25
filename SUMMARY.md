@@ -3,7 +3,7 @@
 * [📚 Despre Docs](README.md)
 * [🚙 Roadmap](contributions.md)
 * [💬 Feedback](feedback.md)
-* [Propune sau contribuie](proposals.md)
+* [Contribuie şi tu!](proposals.md)
 
 ## Docs
 

@@ -1,4 +1,4 @@
-# Propune sau contribuie
+# Contribuie şi tu!
 
 ## 👩‍🏫 Propuneri
 
