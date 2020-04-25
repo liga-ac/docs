@@ -46,18 +46,23 @@ _**JetBrains**_ este o companie de dezvoltare software, ale cărei instumente se
 
 Pentru a activa licența JetBrains și pentru a obține acces la pachetul pentru studenți oferit de Github, trebuie _**să fii student. :\)\)**_  Mai jos sunt pașii pe care trebuie să îi urmăm. 
 
-* Ne facem cont pe [JetBrains](https://account.jetbrains.com/login) și pe [Github](https://github.com/join?source=header-home) - avem nevoie de ambele ca și software developer, deci nu strică de loc să ne facem aceste conturi. 
-* **\[TIPS&TRICKS\]** 
-  * **Avem nevoie de o singură licență, deci make sense să alegem una dintre variantele de mai jos. Licență oferită direct de JetBrains este strict pentru produsele lor, în schimb Github Student Pack ne oferă acces gratuit la o mulțime pe produse.**  
-  * **În ambele cazuri, această licența trebuie reînnoită în fiecare an**  ☹ 
-  * **Dacă vrem să obținem numai licența pentru JetBrains, putem sări direct la pasul 5.** 
+* Avem în primul rând nevoie să ne înregistrăm pe [JetBrains](https://account.jetbrains.com/login) și pe [Github](https://github.com/join?source=header-home). 
+
+**\[TIPS & TRICKS\]** 
+
+* **Licență oferită direct de JetBrains este strict pentru produsele lor, în schimb Github Student Pack ne oferă acces gratuit la o mulțime de alte produse, printre care și JetBrains.**  
+* **Dacă vrem să obținem numai licența pentru JetBrains, putem sări direct la pasul 3.** 
+
+{% hint style="warning" %}
+_**Nu uita, licența este valabilă numai un an și trebuie reînnoită.**_
+{% endhint %}
 
 ### Licență prin Github Student Developer Pack 
 
 * Trebuie să ne logăm cu contul de student, pentru a avea acces la pachetul oferit de Github.
 
 {% hint style="info" %}
-D_**acă nu știi cum ai acces la facilitățile oferite de Github Student Pack, poți urmări tutorialul nostru dedicat acestui subiect.**_ 
+_**Dacă nu știi cum ai acces la facilitățile oferite de Github Student Pack, poți urmări tutorialul nostru dedicat acestui subiect.**_ 
 {% endhint %}
 
 1. Pentru a obține licența, accesăm [JetBrains](https://www.jetbrains.com/community/education/?authMethod=github#students)-precum este evidențiat în poza de mai jos.
@@ -74,11 +79,15 @@ D_**acă nu știi cum ai acces la facilitățile oferite de Github Student Pack,
 
 ![](.gitbook/assets/image%20%2814%29.png)
 
-4.  După ce aplicați, veți primi un email de confirmare și _**trebuie să urmați instrucțiunile din acel email**_. Și pentru JetBrains, cât și pentru Github, când competați formularul _**e nevoie de folosiți adresa de email pe care o aveți de la Universitatea la care studiați.**_  
+4.  După ce aplicăm, primim un email de confirmare și _**trebuie să urmăm instrucțiunile din acel email**_. 
+
+{% hint style="warning" %}
+_**Pentru a avea acces la facilitățile oferite gratuit pentru studenți, este nevoie de folosiți adresa de email pe care ați primit-o de la Universitatea la care studiați.**_  
+{% endhint %}
 
 ![](.gitbook/assets/image%20%281%29.png)
 
-5.Veți fi redirecționați către contul vostru JetBrains unde veți vedea ID ul pentru licență. 
+5.Suntem redirecționați către contul JetBrains unde vedem ID-ul pentru licență. 
 
 ![](.gitbook/assets/image%20%2819%29.png)
 
