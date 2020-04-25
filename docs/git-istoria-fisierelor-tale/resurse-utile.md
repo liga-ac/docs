@@ -6,5 +6,5 @@
 4. \*\*\*\*[**Learn X in Y minutes**](https://learnxinyminutes.com/docs/git/) ****- unde X este git
 5. \*\*\*\*[**deployhq.com/git**](https://www.deployhq.com/git) - fundamentele git în tutoriale scurte
 
-{% file src="../.gitbook/assets/git-cheatsheet-de-atlassian.pdf" caption="Git Cheatsheet de Atlassian" %}
+{% file src="../../.gitbook/assets/git-cheatsheet-de-atlassian.pdf" caption="Git Cheatsheet de Atlassian" %}
 

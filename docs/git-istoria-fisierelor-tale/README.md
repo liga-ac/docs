@@ -18,17 +18,17 @@ Acest proces ar fi extrem de epuziant... dar de aceea există **Git**!
 
 ## Ce vom învăța
 
-\*\*\*\*[**Ce este git?**](../untitled/ce-este-git.md) ****— Vom trece pe scurt prin definiția Git, de ce avem nevoie de el, cine îl mai folosește și vom afla cine l-a creat.
+\*\*\*\*[**Ce este git?**](ce-este-git.md) ****— Vom trece pe scurt prin definiția Git, de ce avem nevoie de el, cine îl mai folosește și vom afla cine l-a creat.
 
-\*\*\*\*[**Cum instalăm Git**](../untitled/cum-instalam-git.md) ****— Vom trece prin procesul de instalare atât pe Windows, Mac și Linux.
+\*\*\*\*[**Cum instalăm Git**](cum-instalam-git.md) ****— Vom trece prin procesul de instalare atât pe Windows, Mac și Linux.
 
-\*\*\*\*[**Primii pași în Git**](../untitled/primii-pasi-in-git.md) ****— Vom inițializa un proiect cu `git init`, explicăm câțiva termeni de bază și intrăm în cele mai basic comenzi.
+\*\*\*\*[**Primii pași în Git**](primii-pasi-in-git.md) ****— Vom inițializa un proiect cu `git init`, explicăm câțiva termeni de bază și intrăm în cele mai basic comenzi.
 
-\*\*\*\*[**Procesul de lucru cu Git**](../untitled/procesul-de-lucru-cu-git.md) ****— Intrăm în fundamentele git.
+\*\*\*\*[**Procesul de lucru cu Git**](procesul-de-lucru-cu-git.md) ****— Intrăm în fundamentele git.
 
-\*\*\*\*[**GitHub**](../untitled/github.md) ****— Vom folosi GitHub pentru a putea colabora cu alți colegi, vedem cum clonăm repo-ul, cum facem modificări în el, ce sunt Issue-urile, vorbim pe scurt despre Pull Request-uri și vom încheia cu câteva tips & tricks.
+\*\*\*\*[**GitHub**](github.md) ****— Vom folosi GitHub pentru a putea colabora cu alți colegi, vedem cum clonăm repo-ul, cum facem modificări în el, ce sunt Issue-urile, vorbim pe scurt despre Pull Request-uri și vom încheia cu câteva tips & tricks.
 
-\*\*\*\*[**Resurse utile**](../untitled/resurse-utile.md) ****— Am lăsat aici câteva link-uri utile de care să vă folosiți în aventura voastră cu Git.
+\*\*\*\*[**Resurse utile**](resurse-utile.md) ****— Am lăsat aici câteva link-uri utile de care să vă folosiți în aventura voastră cu Git.
 
 ## De ce avem nevoie
 
