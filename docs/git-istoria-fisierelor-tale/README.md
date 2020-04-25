@@ -30,3 +30,9 @@ Acest proces ar fi extrem de epuziant... dar de aceea există **Git**!
 
 Nu prea multe, conexiune la internet \(pe care o ai deja dacă citești asta\), un calculator, fie el cu Linux, MacOS sau Windows, și cel mai important, **dorința de a învăța**!
 
+{% hint style="warning" %}
+## Întâmpini dificultăți?
+
+Conteactează-mă la adresa ✉ **hello@arpadgabor.com** sau mă găsești pe 🌐 [Facebook](https://messenger.com/t/arpi.gabor).
+{% endhint %}
+
