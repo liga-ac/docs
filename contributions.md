@@ -6,7 +6,3 @@ description: >-
 
 # ✍ Cum să contribui
 
-
-
-
-
