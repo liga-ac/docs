@@ -8,9 +8,7 @@ description: Inițiativa Ligii AC de a face educația de calitate deschisă tutu
 
 ![Imagine de @element5digital pe Unsplash](.gitbook/assets/image.png)
 
-Noi, membrii ai Ligii AC am început această inițiativă de crea conținut educațional pentru voi, studenții care doriți să vă dezvoltați, elevii cu visuri mari, dar și vecinului de la 4 cu care te-ai decis să înveți ceva nou!😉 
-
-{% page-ref page="docs/cuprins.md" %}
+Noi, membrii ai Ligii AC am început această inițiativă de crea conținut educațional pentru voi, studenții care doriți să vă dezvoltați, elevii cu visuri mari, dar și vecinului de la 4 cu care te-ai decis să înveți ceva nou! 😉 
 
 ## 🌍 Educație de oriunde
 

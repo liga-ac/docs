@@ -5,7 +5,6 @@
 
 ## Docs
 
-* [📖 Cuprins](docs/cuprins.md)
 * [Git - istoria fişierelor tale](docs/git-istoria-fisierelor-tale/README.md)
   * [Ce este Git?](docs/git-istoria-fisierelor-tale/ce-este-git.md)
   * [Cum instalăm Git?](docs/git-istoria-fisierelor-tale/cum-instalam-git.md)
