@@ -1,7 +1,7 @@
 # Table of contents
 
 * [📚 Despre Docs](README.md)
-* [✍ Roadmap](contributions.md)
+* [🚙 Roadmap](contributions.md)
 
 ## Docs
 
