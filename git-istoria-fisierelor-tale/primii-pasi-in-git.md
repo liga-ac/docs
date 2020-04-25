@@ -24,7 +24,7 @@ Acești câțiva termeni sunt de bază în git, vom defini pe scurt aici de îns
 {% tab title="Windows" %}
 În Windows puteți folosi și Command Line, PowerShell, sau Git Bash dacă faceți Click Dreapta în folderul cu proiectul vostru.
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 {% hint style="info" %}
 **Tip:** Puteți instala un Terminal de Linux în Windows. Este chiar recomandat deoarece veți folosi destul de mult un terminal de Linux la laboratoare în facultate și este mult mai versatil și simplu de folosit. Nu aveți nevoie de mașină virtuală. Aflați mai multe despre [Windows Subsystem for Linux](https://devblogs.microsoft.com/commandline/an-in-depth-tutorial-on-linux-development-on-windows-with-wsl-and-visual-studio-code/).
@@ -32,11 +32,11 @@ Acești câțiva termeni sunt de bază în git, vom defini pe scurt aici de îns
 {% endtab %}
 
 {% tab title="MacOS" %}
-![https://www.howtogeek.com/210147/how-to-open-terminal-in-the-current-os-x-finder-location/](../../.gitbook/assets/image%20%2816%29.png)
+![https://www.howtogeek.com/210147/how-to-open-terminal-in-the-current-os-x-finder-location/](../.gitbook/assets/image%20%2816%29.png)
 {% endtab %}
 
 {% tab title="Linux" %}
-![groovypost.com/howto/open-command-window-terminal-window-specific-folder-windows-mac-linux/](../../.gitbook/assets/image%20%2812%29.png)
+![groovypost.com/howto/open-command-window-terminal-window-specific-folder-windows-mac-linux/](../.gitbook/assets/image%20%2812%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -136,7 +136,7 @@ b08acc1 (HEAD -> master) uitați ce frumos se vede
 
 Grafic, în momentul de față cam așa arată repo-ul vostru.
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 ### git diff
 

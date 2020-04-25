@@ -8,7 +8,7 @@ description: >-
 
 Git este un **Sistem de Versionare** a codului sursă. În termeni simpli, acesta știe să rețină modificări în codul tău sursă.
 
-![Imagine de pe git-scm.com](../../.gitbook/assets/image.png)
+![Imagine de pe git-scm.com](../.gitbook/assets/image.png)
 
 De exemplu, lucrând la proiectul tău, în timp faci modificări în diferite locuri, unele lucruri mai ajung să se strice, dar tu ții minte că acum o săptămână bucata aia de cod mergea perfect, dar nu știi ce ai făcut greșit de acum nu mai merge. Aici git te poate ajuta să revii la codul de atunci și să vezi ce modificări ar fi putut cauza probleme.
 

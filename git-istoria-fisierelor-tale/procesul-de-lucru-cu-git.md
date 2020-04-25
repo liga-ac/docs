@@ -6,7 +6,7 @@ Ca să putem înțelege mai bine git și cum funcționează el, este important s
 
 În general veți folosi o platformă de genul GitHub, GitLab, etc. unde vă veți ține codul. Acestea se folosesc de sistemul git pentru a putea și ele reține toate modificările la codul vostru, dar ele fac mult mai multe. Vom trece prin câteva exemple pe pagina despre [GitHub](github.md).
 
-![https://backlog.com/git-tutorial/creating-a-repository/](../../.gitbook/assets/image%20%2821%29.png)
+![https://backlog.com/git-tutorial/creating-a-repository/](../.gitbook/assets/image%20%2821%29.png)
 
 Remote-ul este acel repository care este practic un "source of truth", adică repo-ul care se află pe una din platformele menționate mai sus. Toate repo-urile locale comunică cu cel remote.
 
@@ -22,7 +22,7 @@ Tu când vrei să lucrezi la proiect, iei de pe remote ultimele modificări, luc
 
 Când lucrăm cu un repository remote, apar câteva variabile în plus. În cazul în care lucrezi singur pe un proiect, treabă stă destul de simplu.
 
-![&#xAF;\\_\(&#x30C4;\)\_/&#xAF;](../../.gitbook/assets/image%20%283%29.png)
+![&#xAF;\\_\(&#x30C4;\)\_/&#xAF;](../.gitbook/assets/image%20%283%29.png)
 
 În afară de punctul 3, cam așa stă treaba.
 
@@ -40,7 +40,7 @@ $ git push origin master
 
 În principiu, oricând faci modificări este recomandat să le faci push. Nu este nevoie la fiecare commit să faci asta, poți face câte commit-uri locale dorești, iar când crezi că e momentul, le faci push pe remote. O dată ce le-ai push-uit, acestea vor fi vizibile pe platforma ce o folosești.
 
-![&#xCE;nainte de push vs. dup&#x103; push. Modific&#x103;rile locale au fost aplicate pe remote.](../../.gitbook/assets/image%20%282%29.png)
+![&#xCE;nainte de push vs. dup&#x103; push. Modific&#x103;rile locale au fost aplicate pe remote.](../.gitbook/assets/image%20%282%29.png)
 
 {% hint style="info" %}
 **Ne aducem aminte:** Când am rulat `git remote add`**`origin`**`<url>`, am pus la remote denumirea "**origin**". Aceasta poate fi orice, dar în general veți vedea origin.
@@ -88,7 +88,7 @@ Să ne imaginăm un proiect mai mare. În general **master** conține cod stabil
 
 Dacă nu înțelegeți prea bine ce se întâmplă, nu vă faceți griji. Cu cât lucrați mai mult cu git veți înțelege.
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 
 
