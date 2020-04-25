@@ -40,10 +40,10 @@ $ git push origin master
 
 În principiu, oricând faci modificări este recomandat să le faci push. Nu este nevoie la fiecare commit să faci asta, poți face câte commit-uri locale dorești, iar când crezi că e momentul, le faci push pe remote. O dată ce le-ai push-uit, acestea vor fi vizibile pe platforma ce o folosești.
 
-![&#xCE;nainte de push &#x219;i dup&#x103; push. Modific&#x103;rile locale au fost aplicate pe remote.](../../.gitbook/assets/image%20%281%29.png)
+![&#xCE;nainte de push vs. dup&#x103; push. Modific&#x103;rile locale au fost aplicate pe remote.](../../.gitbook/assets/image%20%281%29.png)
 
 {% hint style="info" %}
-**Ne aducem aminte:** Când am rulat `git remote add origin <url>`, am pus la remote denumirea "origin". Aceasta poate fi orice, dar în general veți vedea origin.
+**Ne aducem aminte:** Când am rulat `git remote add`**`origin`**`<url>`, am pus la remote denumirea "**origin**". Aceasta poate fi orice, dar în general veți vedea origin.
 
 În exemplul de mai sus, **origin master** este repo-ul remote, iar atunci când facem push, modificările din **master**-ul local vor fi aplicate în remote.
 {% endhint %}
@@ -52,19 +52,25 @@ $ git push origin master
 
 **Apar comenzi noi cu care veți lucra.** Va trebui să faceți `fetch` la modificări, să puteți vedea cine ce a modificat, unde și cum. În plus, ca să adăugați codul scris de restul în local, trebuie să faceți `pull`. Această operație iarăși **poate genera conflicte** dacă altcineva a făcut `push` la fișiere unde ai lucrat și tu, dar nu ai făcut `commit` sau `stash`.
 
-
-
 Sunt multe comenzi? Stai liniștit, nu e atâta de greu pe cât pare.
 
 ### 📉 git fetch
 
 O operație „non-destructivă”. Când o rulezi, aceasta cere la remote toate commit-urile ce s-au mai făcut, dar nu le și aplică peste repo-ul local. Aceasta o folosești înainte de a face pull. Altfel, git nu va ști dacă există modificări noi.
 
-```text
+```bash
 $ git fetch origin
 ```
 
-### 📥git pull
+### 📥 git pull
+
+Faci `pull` atunci când vrei să aplici modificările de pe remote la tine în repo-ul local.
+
+```bash
+$ git pull origin
+```
+
+`Pull` este o operație „destructivă”. Aceasta va adăuga toate modificările de pe remote în repo-ul vostru. Este important să știți că dacă faceți `pull` dar aveți modificări la care nu ați făcut `commit`, vă veți trezi cu conflicte. Oricând vreți să faceți `pull`, faceți `commit` înainte.
 
 ### 📦 git stash
 
