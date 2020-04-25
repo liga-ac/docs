@@ -16,11 +16,11 @@ description: >-
 * apoi apeși pe butonul **Get Student Benefits.**
 * iar pe pagina deschisă bifează casuța de la **Student** si casuța de langă **adresa ta de mail.**
 
-![](.gitbook/assets/exemplu1.png)
+![](../.gitbook/assets/exemplu1.png)
 
 * iar în casuța text de jos scrie pentru ce ai vrea tu să folosești GitHub Student Pack. 
 
-![](.gitbook/assets/exemplu2%20%282%29.png)
+![](../.gitbook/assets/exemplu2%20%282%29.png)
 
 **Exemplu text**: " I want to use GitHub student pack for my university's projects along with my colleagues. It brings me a multiple opportunities and can really help me at studying better."
 
