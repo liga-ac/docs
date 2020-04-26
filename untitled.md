@@ -29,8 +29,6 @@ _**Studenții au acces gratuit la tool-urile JetBrains și pot accesa licențele
 
 ![JetBrains a dezvoltat p&#xE2;n&#x103; &#xEE;n prezent 28 de tool-uri](.gitbook/assets/untitled-presentation.png)
 
-![](.gitbook/assets/kwest.gif)
-
 ## IDE - Integrated Development Environment 
 
 {% hint style="info" %}
