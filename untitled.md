@@ -163,8 +163,8 @@ _**Este de preferat ca după instalarea aceste aplicații, instalarea de noi pro
 
 ## 🔖 Resurse utile 
 
-* Site-ul celor de la [JetBrains](https://www.jetbrains.com/). 
-* [Canalul de Youtube ](https://www.youtube.com/user/JetBrainsTV)pe care îl dezvoltă. 
+* [Tool-uri și informații utile despre](https://www.jetbrains.com/products.html) - descrierea fiecărui tool și limbajele folosite. 
+* [Tutoriale pe Youtube](https://www.youtube.com/user/JetBrainsTV) dezvoltate de către JetBrains
 
 ## Mulțumesc că ați ajuns până aici și sper că acest material te-a ajutat. Stay safe!
 
