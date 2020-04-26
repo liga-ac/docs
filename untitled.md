@@ -14,7 +14,7 @@ _**JetBrains**_ este o companie de dezvoltare software, ale cărei instumente se
 
 * În prezent compania oferă _**28 de produse**_, care folosesc cele mai importante limbaje de programare și tehnologii, cum ar fi _**Java, C\#, PHP, C++, Python, JavaScript,** etc. ****_
 * Au dezvoltat și propriile limbaje de programare: _**Koltin**_ și **MPS,** precum și o aplicație de management pentru instrumentele pe care le livrează - _**ToolBox App**_.
-* Oferă acces gratuit la anumite instrumente, în scop educativ, precum _**IntelliJ IDEA Edu**_, _**PyCharm Edu**_, și _**JetBrains Academy.**_
+* Oferă acces gratuit la anumite instrumente, în scop educativ, _**IntelliJ IDEA Edu**_, _**PyCharm Edu**_, și _**JetBrains Academy**_ și care folosesc limbaje de programare precum _**Kotlin, Java, Python, JavaScript, Rust, C/C++, Scala, and Go.**_
 * _**Productivitatea și eficiența**_ îi ghidează în procesul de dezvoltare și îmbunătățire al tool-urilor pe care le oferă. 
 
 {% hint style="info" %}
