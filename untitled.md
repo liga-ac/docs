@@ -26,7 +26,7 @@ _**Studenții au acces gratuit la tool-urile JetBrains și pot accesa licențele
 ### IDE - Integrated Development Environment 
 
 {% hint style="info" %}
-_**Ce sunt? Aplicații software care oferă programatorilor multiple facilități pentru dezvoltarea software.**_
+_**Ce sunt? Aplicații care oferă programatorilor multiple facilități pentru dezvoltarea software.**_
 {% endhint %}
 
 * Sunt concepute pentru a _**maximiza productivitatea programatorilor, ajută la creșterea vitezei  de realizare a taskurilor și standardizează procesul de dezvoltare .**_ 
