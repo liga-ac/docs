@@ -30,16 +30,16 @@ _**Ce sunt? Aplicații care oferă programatorilor multiple facilități pentru 
 {% endhint %}
 
 * Sunt concepute pentru a _**maximiza productivitatea programatorilor, ajută la creșterea vitezei  de realizare a taskurilor și standardizează procesul de dezvoltare .**_ 
-* IDEs oferă o interfață centrală caracterizată de toate instumentele de care un dezvoltator software are nevoie, precum: _**editor de cod, compilator,**_ instrumente pentru depanarea aplicațiilor - _**debugger**_, _**și nu numai**_. 
-* Unele IDEs se axează pe un singur limbaj de programare, dar destul de multe permit dezvoltatorilor să utilizeze diverse limbaje de programare\( de ex. IntelliJ IDEA\).
+* IDEs oferă o interfață centrală caracterizată de toate instumentele de care un dezvoltator software are nevoie, precum: _**editor de cod, compilator,**_ instrumente pentru depanarea aplicațiilor - _**debugger**_, și nu numai. 
+* Unele IDEs se axează pe un singur limbaj de programare, dar destul de multe permit dezvoltatorilor să utilizeze diverse limbaje de programare \(de ex. IntelliJ IDEA\).
 * **IntelliJ IDEA permite folosirea a multiple limbaje de programare, de la Java, JavaScript și până la Kotlin, Scala, Ruby, SQL, Python, PHP, Dart, Go, Groovy, HTML, TypeScript.**
 
-**Cei de la JetBrains susțin că indiferent de tehnologiile pe care le folosim, vom găsi un instrument JetBrains care să ne ajute. Haide să vedem despre ce este vorba :&gt;\`**
+**Cei de la JetBrains susțin că indiferent de tehnologiile pe care le folosim, vom găsi un instrument JetBrains care să ne ajute. Haide să vedem despre ce este vorba :&gt;**
 
 **&lt;Insert pozăăă, @Arpi helps&gt; :\)\)** 
 
 {% hint style="success" %}
-[Tool-urile oferite de JetBrains](https://www.jetbrains.com/products.html) și informații utile despre ****fiecare. 
+Aici găseşti [tool-urile oferite de JetBrains](https://www.jetbrains.com/products.html#) și informații utile despre ****fiecare. 
 {% endhint %}
 
 ## ToolBox App
@@ -49,7 +49,7 @@ _**Ce sunt? Aplicații care oferă programatorilor multiple facilități pentru 
     <tr>
       <th style="text-align:left">Aplica&#x21B;ie gratuit&#x103; destinat&#x103; gestion&#x103;rii instrumentelor
         &#x219;i proiectelor &#xEE;ntr-un mod inteligent &#x219;i cu un efort c&#xE2;t
-        mai redus, simplific&#x103; instalarea &#x219;i actualizarea tuturor tool-urilor
+        mai redus, simplific&#xE2;nd instalarea &#x219;i actualizarea tuturor tool-urilor
         oferite de JetBrains.</th>
       <th style="text-align:right">
         <p></p>
@@ -61,14 +61,14 @@ _**Ce sunt? Aplicații care oferă programatorilor multiple facilități pentru 
     </tr>
   </thead>
   <tbody></tbody>
-</table>* **Ce avantaje ne oferă această aplicație??**
+</table>* **Ce avantaje ne oferă această aplicație?**
   * Salvăm timp și efort în ceea ce privește mentenanța instrumentelor pe care le folosim. 
-  * Are integrate mai multe versiuni ale aceluiași tool.
+  * Poate instala mai multe versiuni ale aceluiași tool.
   * Se poate integra cu GitHub, GitLab sau Bitbucket și permite clonarea arhivelor direct din browser, cu ajutorul unor extensii.
 
 ## Activare licență: JetBrains & Github Student Developer Pack 🎓 
 
-Pentru a activa licența JetBrains și pentru a obține acces la pachetul gratuit oferit de Github, trebuie _**să fii student. :\)\)**_  Mai jos sunt pașii pe care trebuie să îi urmăm. 
+Pentru a activa licența JetBrains și pentru a obține acces la pachetul gratuit oferit de Github, trebuie _**să fii student**_. Mai jos sunt pașii pe care trebuie să îi urmăm. 
 
 * Avem în primul rând nevoie să ne înregistrăm pe [JetBrains](https://account.jetbrains.com/login) și pe [Github](https://github.com/join?source=header-home). 
 
