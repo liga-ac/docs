@@ -16,7 +16,7 @@ _**JetBrains**_ este o companie de dezvoltare software, ale cărei instumente se
 * În prezent compania oferă _**28 de produse**_, care folosesc cele mai importante limbaje de programare și tehnologii. Cele mai folosite limbaje de programare sunt _**Java, C\#, PHP, C++, Python, JavaScript etc.**_ 
 * Primul instrument pe care l-au dezvoltat în 2001 este _**IntelliJ IDEA.**_
 * Au dezvoltat și propriile limbaje de programare: _**Koltin**_ și **MPS,** precum și o aplicație de management pentru instrumentele pe care le livrează-_**ToolBox App**_.
-* Oferă gratuit acces la produse în scop educațional, precum _**IntelliJ IDEA, Kotlin, PyCharm, WebStorm, CLion și Go.**_
+* Oferă acces gratuit la anumite instrumente, în scop educativ, precum _**IntelliJ IDEA, Kotlin, PyCharm, WebStorm, CLion și Go.**_
 * _**Productivitatea și eficiența**_ îi ghidează în procesul de dezvoltare și îmbunătățire al tool-urilor pe care le oferă. 
 
 {% hint style="info" %}
@@ -33,7 +33,17 @@ _**Studenții au acces gratuit la tool-urile JetBrains și pot accesa licențele
 
 ## IDE - Integrated Development Environment 
 
--
+{% hint style="info" %}
+_**Ce sunt? Aplicații software care oferă programatorilor multiple facilități pentru dezvoltarea software.**_
+{% endhint %}
+
+* Sunt concepute pentru a _**maximiza productivitatea programatorilor**_.
+* IDEs oferă o interfață centrală caracterizată de toate instumentele de care un dezvoltator software are nevoie, precum:
+  * _**editor de cod,**_
+  * _**compilator,**_
+  * instrumente pentru depanarea aplicațiilor - _**debugger**_, _**și nu numai**_. 
+* Unele IDEs se axează pe un singur limbaj de programare, dar destul de multe permit dezvoltatorilor să utilizeze diverse limbaje de programare\( de ex. IntelliJ IDEA\)
+* **IntelliJ IDEA permite limbaje de programare multiple, de la Java și JavaScript și până la Kotlin, Scala, Ruby, SQL, Python, PHP, Dart, Go, Groovy, HTML și TypeScript.**
 
 ## ToolBox App
 
