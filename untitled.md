@@ -40,6 +40,10 @@ _**Ce sunt? Aplicații software care oferă programatorilor multiple facilităț
 
 **&lt;Insert pozăăă, @Arpi help&gt; :\)\)** 
 
+{% hint style="info" %}
+[Tool-urile oferite de JetBrains](https://www.jetbrains.com/products.html) și informații utile despre ****fiecare tool. 
+{% endhint %}
+
 ## ToolBox App
 
 <table>
@@ -165,11 +169,6 @@ _**Este de preferat ca după instalarea aceste aplicații, instalarea de noi pro
 ![](.gitbook/assets/image%20%288%29.png)
 
 5. Well, asta e tot. Acum poți începe liniștit să dezvolți aplicații în Rider. Baftăă :D
-
-## 🔖 Resurse utile 
-
-* [Tool-uri și informații utile despre](https://www.jetbrains.com/products.html) - descrierea fiecărui tool și limbajele folosite. 
-* [Tutoriale pe Youtube](https://www.youtube.com/user/JetBrainsTV) dezvoltate de către JetBrains
 
 ## Mulțumesc că ați ajuns până aici și sper că acest material te-a ajutat. Stay safe!
 
