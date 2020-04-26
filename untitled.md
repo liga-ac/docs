@@ -10,7 +10,7 @@ description: >-
 
 > _"We make professional software development a more productive and enjoyable experience." - their mission_
 
-_**JetBrains**_ este o companie de dezvoltare software, ale cărei instumente se adresează în special dezvoltatorilor software și managerilor de proiecte. Încă din 2000 când au intrat pe piață, lucrează la dezvoltarea celor mai puternice și eficiente instrumente de dezvoltare.
+_**JetBrains**_ este o companie de dezvoltare software, ale cărei instumente se adresează în special dezvoltatorilor software și managerilor de proiecte.
 
 * În prezent compania oferă _**28 de produse**_, care folosesc cele mai importante limbaje de programare și tehnologii, cum ar fi _**Java, C\#, PHP, C++, Python, JavaScript,** etc. ****_
 * Au dezvoltat propriile limbaje de programare: _**Koltin,**_ **MPS,** precum și o aplicație de management pentru instrumentele pe care le livrează - _**ToolBox App**_.
