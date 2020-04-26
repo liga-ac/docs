@@ -13,8 +13,8 @@ description: >-
 _**JetBrains**_ este o companie de dezvoltare software, ale cărei instumente se adresează în special dezvoltatorilor software și managerilor de proiecte. Încă din 2000 când au intrat pe piață, lucrează la dezvoltarea celor mai puternice și eficiente instrumente de dezvoltare.
 
 * În prezent compania oferă _**28 de produse**_, care folosesc cele mai importante limbaje de programare și tehnologii, cum ar fi _**Java, C\#, PHP, C++, Python, JavaScript,** etc. ****_
-* Au dezvoltat și propriile limbaje de programare: _**Koltin**_ și **MPS,** precum și o aplicație de management pentru instrumentele pe care le livrează - _**ToolBox App**_.
-* Oferă acces gratuit la anumite instrumente, în scop educativ, _**IntelliJ IDEA Edu**_, _**PyCharm Edu**_, și _**JetBrains Academy**_ și care folosesc limbaje de programare precum _**Kotlin, Java, Python, JavaScript, Rust, C/C++, Scala, and Go.**_
+* Au dezvoltat propriile limbaje de programare: _**Koltin,**_ **MPS,** precum și o aplicație de management pentru instrumentele pe care le livrează - _**ToolBox App**_.
+* Oferă acces gratuit la anumite instrumente, în scop educativ, _**IntelliJ IDEA Edu**_, _**PyCharm Edu**_, și _**JetBrains Academy,**_ care folosesc limbaje de programare precum _**Kotlin, Java, Python, JavaScript, Rust, C/C++, Scala, Go.**_
 * _**Productivitatea și eficiența**_ îi ghidează în procesul de dezvoltare și îmbunătățire al tool-urilor pe care le oferă. 
 
 {% hint style="info" %}
@@ -32,14 +32,14 @@ _**Ce sunt? Aplicații software care oferă programatorilor multiple facilităț
 * Sunt concepute pentru a _**maximiza productivitatea programatorilor, ajută la creșterea vitezei  de realizare a taskurilor și standardizează procesul de dezvoltare .**_ 
 * IDEs oferă o interfață centrală caracterizată de toate instumentele de care un dezvoltator software are nevoie, precum: _**editor de cod, compilator,**_ instrumente pentru depanarea aplicațiilor - _**debugger**_, _**și nu numai**_. 
 * Unele IDEs se axează pe un singur limbaj de programare, dar destul de multe permit dezvoltatorilor să utilizeze diverse limbaje de programare\( de ex. IntelliJ IDEA\).
-* **IntelliJ IDEA permite limbaje de programare multiple, de la Java și JavaScript și până la Kotlin, Scala, Ruby, SQL, Python, PHP, Dart, Go, Groovy, HTML și TypeScript.**
+* **IntelliJ IDEA permite folosirea a multiple limbaje de programare, de la Java, JavaScript și până la Kotlin, Scala, Ruby, SQL, Python, PHP, Dart, Go, Groovy, HTML, TypeScript.**
 
 **Cei de la JetBrains susțin că indiferent de tehnologiile pe care le folosim, vom găsi un instrument JetBrains care să ne ajute. Haide să vedem despre ce este vorba :&gt;\`**
 
 **&lt;Insert pozăăă, @Arpi helps&gt; :\)\)** 
 
 {% hint style="success" %}
-[Tool-urile oferite de JetBrains](https://www.jetbrains.com/products.html) și informații utile despre ****fiecare tool. 
+[Tool-urile oferite de JetBrains](https://www.jetbrains.com/products.html) și informații utile despre ****fiecare. 
 {% endhint %}
 
 ## ToolBox App
@@ -49,7 +49,7 @@ _**Ce sunt? Aplicații software care oferă programatorilor multiple facilităț
     <tr>
       <th style="text-align:left">Aplica&#x21B;ie gratuit&#x103; destinat&#x103; gestion&#x103;rii instrumentelor
         &#x219;i proiectelor &#xEE;ntr-un mod inteligent &#x219;i cu un efort c&#xE2;t
-        mai redus, simplific&#x103; instalarea &#x219;i actualizarea tuturor instrumentelor
+        mai redus, simplific&#x103; instalarea &#x219;i actualizarea tuturor tool-urilor
         oferite de JetBrains.</th>
       <th style="text-align:right">
         <p></p>
@@ -63,12 +63,12 @@ _**Ce sunt? Aplicații software care oferă programatorilor multiple facilităț
   <tbody></tbody>
 </table>* **Ce avantaje ne oferă această aplicație??**
   * Salvăm timp și efort în ceea ce privește mentenanța instrumentelor pe care le folosim. 
-  * Are integrate mai multe versiuni ale aceluiași instrument.
+  * Are integrate mai multe versiuni ale aceluiași tool.
   * Se poate integra cu GitHub, GitLab sau Bitbucket și permite clonarea arhivelor direct din browser, cu ajutorul unor extensii.
 
 ## Activare licență: JetBrains & Github Student Developer Pack 🎓 
 
-Pentru a activa licența JetBrains și pentru a obține acces la pachetul pentru studenți oferit de Github, trebuie _**să fii student. :\)\)**_  Mai jos sunt pașii pe care trebuie să îi urmăm. 
+Pentru a activa licența JetBrains și pentru a obține acces la pachetul gratuit oferit de Github, trebuie _**să fii student. :\)\)**_  Mai jos sunt pașii pe care trebuie să îi urmăm. 
 
 * Avem în primul rând nevoie să ne înregistrăm pe [JetBrains](https://account.jetbrains.com/login) și pe [Github](https://github.com/join?source=header-home). 
 
@@ -106,7 +106,7 @@ _**Dacă nu știi cum ai acces la facilitățile oferite de Github Student Pack,
 4.  După ce aplicăm, primim un email de confirmare și _**trebuie să urmăm instrucțiunile din acel email**_. 
 
 {% hint style="warning" %}
-_**Pentru a avea acces la facilitățile oferite gratuit pentru studenți, este nevoie de folosiți adresa de email pe care ați primit-o de la Universitatea la care studiați.**_  
+_**Pentru a avea acces la facilitățile oferite gratuit pentru studenți, este nevoie de folosiți  în formular adresa de email pe care ați primit-o de la Universitatea la care studiați.**_  
 {% endhint %}
 
 ![](.gitbook/assets/image%20%281%29.png)
@@ -121,14 +121,14 @@ _**Felicitării! Acum te poți bucura, ai și mai multe motive să te apuci de c
 
 ## Rider: instalare și activarea licenței 🤯 
 
-Când folosim produsele de la JetBrains, cum am spus și mai sus e util să folosim ToolBox App, pentru a evita munca în plus pentru instalarea și actualizarea toolurilor pe care le folosim. _**Let's see how it works!**_ 
+Când folosim produsele de la JetBrains, cum am spus și mai sus e util să folosim ToolBox App, pentru a evita munca în plus la instalarea și actualizarea toolurilor pe care le folosim. _**Let's see how it works!**_ 
 
 * Descărcăm [ToolBox](https://www.jetbrains.com/toolbox-app/) și îl instalăm, urmând pașii normali de instalare a unui produs.
 * După ce se deschide aplicația, aceasta ne va arăta toate proiectele și produsele JetBrains deja existente pe PC și restul produselor disponibile.  
 
 ![](.gitbook/assets/image%20%2811%29.png)
 
-_**Este de preferat ca după instalarea aceste aplicații, instalarea de noi produse, actualizările și chiar dezinstalarea produselor pe care nu le mai folosim, să fie realizate cu ajutorul aplicației.**_  
+_**Este de preferat ca după instalarea aceste aplicații, instalarea de noi produse, actualizările și chiar dezinstalarea celor pe care nu le mai folosim, să fie realizate cu ajutorul aplicației.**_  
 
 <table>
   <thead>
