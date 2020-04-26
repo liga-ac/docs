@@ -88,7 +88,7 @@ _**Nu uita, licența este valabilă numai un an și trebuie reînnoită.**_
 * Trebuie să ne logăm cu contul de student, pentru a avea acces la pachetul oferit de Github.
 
 {% hint style="info" %}
-_**Dacă nu știi cum ai acces la facilitățile oferite de Github Student Pack, poți urmări tutorialul nostru dedicat acestui subiect.**_ 
+_**Dacă nu știi cum ai acces la facilitățile oferite de Github Student Pack, poți urmări**_ [_**tutorialul nostru dedicat acestui subiect**_](github-student-pack.md)_**.**_ 
 {% endhint %}
 
 1. Pentru a obține licența, accesăm [JetBrains](https://www.jetbrains.com/community/education/?authMethod=github#students)-precum este evidențiat în poza de mai jos.
