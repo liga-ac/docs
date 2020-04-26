@@ -106,18 +106,20 @@ _**Felicitării! Acum te poți bucura, ai și mai multe motive să te apuci de c
 _**Ce sunt? Aplicații care oferă programatorilor multiple facilități pentru dezvoltarea software.**_
 {% endhint %}
 
-* Sunt concepute pentru a _**maximiza productivitatea programatorilor, ajută la creșterea vitezei  de realizare a taskurilor și standardizează procesul de dezvoltare .**_ 
+* Sunt concepute pentru a _**maximiza productivitatea programatorilor, ajută la creșterea vitezei  de realizare a taskurilor și standardizează procesul de dezvoltare.**_
 * IDEs oferă o interfață centrală caracterizată de toate instumentele de care un dezvoltator software are nevoie, precum: _**editor de cod, compilator,**_ instrumente pentru depanarea aplicațiilor - _**debugger**_, și nu numai. 
-* Unele IDEs se axează pe un singur limbaj de programare, dar destul de multe permit dezvoltatorilor să utilizeze diverse limbaje de programare \(de ex. IntelliJ IDEA\).
-* **IntelliJ IDEA permite folosirea a multiple limbaje de programare, de la Java, JavaScript și până la Kotlin, Scala, Ruby, SQL, Python, PHP, Dart, Go, Groovy, HTML, TypeScript.**
+* Unele IDEs se axează pe un singur limbaj de programare, dar tot mai multe dintre ele oferă suport şi pentru altele, în cazul în care proiectul tău este mai complex \(de ex. IntelliJ IDEA\).
+* **IntelliJ IDEA permite folosirea a multiple limbaje, de la Java, Kotlin și până la Scala, Ruby, SQL, Python, PHP, Dart, Go, Groovy, HTML, TypeScript.**
 
-**Cei de la JetBrains susțin că indiferent de tehnologiile pe care le folosim, vom găsi un instrument JetBrains care să ne ajute. Haide să vedem despre ce este vorba :&gt;**
+**Cei de la JetBrains susțin că indiferent de tehnologiile pe care le folosim, vom găsi un instrument de-al lor care să ne ajute** 😎 
 
 **&lt;Insert pozăăă, @Arpi helps&gt; :\)\)** 
 
-## Rider: instalare și activarea licenței 🤯 
+## Exemplu:
 
-Când folosim produsele de la JetBrains, cum am spus și mai sus e util să folosim ToolBox App, pentru a evita munca în plus la instalarea și actualizarea toolurilor pe care le folosim. _**Let's see how it works!**_ 
+### Rider: instalarea și activarea licenței 🤯 
+
+Când folosim produsele de la JetBrains, cum am spus și mai sus, e util să folosim ToolBox App, pentru a evita munca în plus la instalarea și actualizarea tool-urilor pe care le folosim. _**Let's see how it works!**_ 
 
 * Descărcăm [ToolBox](https://www.jetbrains.com/toolbox-app/) și îl instalăm, urmând pașii normali de instalare a unui produs.
 * După ce se deschide aplicația, aceasta ne va arăta toate proiectele și produsele JetBrains deja existente pe PC și restul produselor disponibile.  
@@ -136,7 +138,7 @@ _**Este de preferat ca după instalarea aceste aplicații, instalarea de noi pro
   <tbody>
     <tr>
       <td style="text-align:center">
-        <p>JetBrains Rider este o platform&#x103; .NET IDE,</p>
+        <p>JetBrains Rider este un .NET IDE,</p>
         <p>care se bazeaz&#x103; pe platformele IntelliJ &#x219;i ReSharper</p>
       </td>
       <td style="text-align:center">
@@ -148,7 +150,7 @@ _**Este de preferat ca după instalarea aceste aplicații, instalarea de noi pro
     </tr>
   </tbody>
 </table>1. Selectăm din listă produsul dorit și îl instalăm direct din aplicație cu click pe butonul de Install. 
-2. Așteptăm să se instaleze :&gt;
+2. Așteptăm să se instaleze, apoi dăm click pe el :&gt;
 
 ![](.gitbook/assets/image%20%2818%29.png)
 
@@ -162,7 +164,7 @@ _**Este de preferat ca după instalarea aceste aplicații, instalarea de noi pro
 
 ![](.gitbook/assets/image%20%288%29.png)
 
-5. Well, asta e tot. Acum poți începe liniștit să dezvolți aplicații în Rider. Baftăă :D
+5. Well, asta e tot. Acum poți începe liniștit să dezvolți aplicații în Rider. Baftăă 😃 
 
 ## Mulțumesc că ați ajuns până aici și sper că acest material te-a ajutat. Stay safe!
 
