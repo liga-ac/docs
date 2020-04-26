@@ -161,6 +161,11 @@ _**Este de preferat ca după instalarea aceste aplicații, instalarea de noi pro
 
 5. Well, asta e tot. Acum poți începe liniștit să dezvolți aplicații în Rider. Baftăă :D
 
+## 🔖 Resurse utile 
+
+* Site-ul celor de la [JetBrains](https://www.jetbrains.com/). 
+* [Canalul de Youtube ](https://www.youtube.com/user/JetBrainsTV)pe care îl dezvoltă. 
+
 ## Mulțumesc că ați ajuns până aici și sper că acest material te-a ajutat. Stay safe!
 
 ![](.gitbook/assets/giphy2.gif)
