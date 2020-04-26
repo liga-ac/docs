@@ -15,7 +15,7 @@
   * [GitHub](git-istoria-fisierelor-tale/github.md)
   * [Resurse utile](git-istoria-fisierelor-tale/resurse-utile.md)
 * [GitHub Student Pack](github-student-pack.md)
-* [JetBrains & Tools](untitled.md)
+* [JetBrains & Tools](jetbrains.md)
 
 ## Utile
 
