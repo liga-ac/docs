@@ -40,7 +40,7 @@ _**Ce sunt? Aplicații software care oferă programatorilor multiple facilităț
 
 **&lt;Insert pozăăă, @Arpi help&gt; :\)\)** 
 
-{% hint style="info" %}
+{% hint style="success" %}
 [Tool-urile oferite de JetBrains](https://www.jetbrains.com/products.html) și informații utile despre ****fiecare tool. 
 {% endhint %}
 
