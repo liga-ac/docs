@@ -37,7 +37,7 @@ _**Studenții au acces gratuit la tool-urile JetBrains și pot accesa licențele
 _**Ce sunt? Aplicații software care oferă programatorilor multiple facilități pentru dezvoltarea software.**_
 {% endhint %}
 
-* Sunt concepute pentru a _**maximiza productivitatea programatorilor**_.
+* Sunt concepute pentru a _**maximiza productivitatea programatorilor, ajută la creșterea vitezei  de realizare a taskurilor și standardizează procesul de dezvoltare .**_ 
 * IDEs oferă o interfață centrală caracterizată de toate instumentele de care un dezvoltator software are nevoie, precum:
   * _**editor de cod,**_
   * _**compilator,**_
