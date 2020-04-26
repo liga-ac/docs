@@ -77,10 +77,6 @@ Pentru a activa licența JetBrains și pentru a obține acces la pachetul gratui
 * **Licență oferită direct de JetBrains este strict pentru produsele lor, în schimb Github Student Pack ne oferă acces gratuit la o mulțime de alte produse, printre care și JetBrains.**  
 * **Dacă vrem să obținem numai licența pentru JetBrains, putem sări direct la pasul 3.** 
 
-{% hint style="warning" %}
-_**Nu uita, licența este valabilă numai un an și trebuie reînnoită.**_
-{% endhint %}
-
 ### Licență prin Github Student Developer Pack 
 
 * Trebuie să ne logăm cu contul de student, pentru a avea acces la pachetul oferit de Github.
@@ -114,6 +110,10 @@ _**Pentru a avea acces la facilitățile oferite gratuit pentru studenți, este 
 5.Suntem redirecționați către contul JetBrains unde vedem ID-ul pentru licență. 
 
 ![](.gitbook/assets/image%20%2819%29.png)
+
+{% hint style="warning" %}
+_**Nu uita, licența este valabilă numai un an și poate fi reînnoită atât timp cât sunteţi studenţi!**_
+{% endhint %}
 
 _**Felicitării! Acum te poți bucura, ai și mai multe motive să te apuci de codat, free acces la ce vrei tu :\)\)**_ 
 
