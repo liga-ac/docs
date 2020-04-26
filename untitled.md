@@ -25,11 +25,7 @@ _**Studenții au acces gratuit la tool-urile JetBrains și pot accesa licențele
 
 ![JetBrains Logo](.gitbook/assets/jetbrains_logo_2016.svg)
 
-**Cei de la JetBrains susțin că indiferent de tehnologiile pe care le folosim, vom găsi un instrument JetBrains care să ne ajute. Haide să vedem despre ce este vorba :&gt;**
-
-![JetBrains a dezvoltat p&#xE2;n&#x103; &#xEE;n prezent 28 de tool-uri](.gitbook/assets/untitled-presentation.png)
-
-## IDE - Integrated Development Environment 
+### IDE - Integrated Development Environment 
 
 {% hint style="info" %}
 _**Ce sunt? Aplicații software care oferă programatorilor multiple facilități pentru dezvoltarea software.**_
@@ -39,6 +35,10 @@ _**Ce sunt? Aplicații software care oferă programatorilor multiple facilităț
 * IDEs oferă o interfață centrală caracterizată de toate instumentele de care un dezvoltator software are nevoie, precum: _**editor de cod, compilator,**_ instrumente pentru depanarea aplicațiilor - _**debugger**_, _**și nu numai**_. 
 * Unele IDEs se axează pe un singur limbaj de programare, dar destul de multe permit dezvoltatorilor să utilizeze diverse limbaje de programare\( de ex. IntelliJ IDEA\).
 * **IntelliJ IDEA permite limbaje de programare multiple, de la Java și JavaScript și până la Kotlin, Scala, Ruby, SQL, Python, PHP, Dart, Go, Groovy, HTML și TypeScript.**
+
+**Cei de la JetBrains susțin că indiferent de tehnologiile pe care le folosim, vom găsi un instrument JetBrains care să ne ajute. Haide să vedem despre ce este vorba :&gt;\`**
+
+**&lt;Insert pozăăă, @Arpi help&gt; :\)\)** 
 
 ## ToolBox App
 
