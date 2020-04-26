@@ -38,7 +38,7 @@ _**Ce sunt? Aplicații software care oferă programatorilor multiple facilităț
 
 **Cei de la JetBrains susțin că indiferent de tehnologiile pe care le folosim, vom găsi un instrument JetBrains care să ne ajute. Haide să vedem despre ce este vorba :&gt;\`**
 
-**&lt;Insert pozăăă, @Arpi help&gt; :\)\)** 
+**&lt;Insert pozăăă, @Arpi helps&gt; :\)\)** 
 
 {% hint style="success" %}
 [Tool-urile oferite de JetBrains](https://www.jetbrains.com/products.html) și informații utile despre ****fiecare tool. 
