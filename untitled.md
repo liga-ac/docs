@@ -38,11 +38,8 @@ _**Ce sunt? Aplicații software care oferă programatorilor multiple facilităț
 {% endhint %}
 
 * Sunt concepute pentru a _**maximiza productivitatea programatorilor, ajută la creșterea vitezei  de realizare a taskurilor și standardizează procesul de dezvoltare .**_ 
-* IDEs oferă o interfață centrală caracterizată de toate instumentele de care un dezvoltator software are nevoie, precum:
-  * _**editor de cod,**_
-  * _**compilator,**_
-  * instrumente pentru depanarea aplicațiilor - _**debugger**_, _**și nu numai**_. 
-* Unele IDEs se axează pe un singur limbaj de programare, dar destul de multe permit dezvoltatorilor să utilizeze diverse limbaje de programare\( de ex. IntelliJ IDEA\)
+* IDEs oferă o interfață centrală caracterizată de toate instumentele de care un dezvoltator software are nevoie, precum: _**editor de cod, compilator,**_ instrumente pentru depanarea aplicațiilor - _**debugger**_, _**și nu numai**_. 
+* Unele IDEs se axează pe un singur limbaj de programare, dar destul de multe permit dezvoltatorilor să utilizeze diverse limbaje de programare\( de ex. IntelliJ IDEA\).
 * **IntelliJ IDEA permite limbaje de programare multiple, de la Java și JavaScript și până la Kotlin, Scala, Ruby, SQL, Python, PHP, Dart, Go, Groovy, HTML și TypeScript.**
 
 ## ToolBox App
