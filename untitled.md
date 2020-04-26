@@ -1,8 +1,7 @@
 ---
 description: >-
   În acest tutorial vom învăța câte ceva despre JetBrains, ce instrumente ne
-  oferă, cum să ne activăm licența JetBrains cu ajutorul GitHub Student Pack și
-  la ce ne ajută ToolBox App.
+  oferă, cum să ne activăm licența JetBrains și la ce ne ajută ToolBox App.
 ---
 
 # JetBrains & Tools
@@ -13,10 +12,9 @@ description: >-
 
 _**JetBrains**_ este o companie de dezvoltare software, ale cărei instumente se adresează în special dezvoltatorilor software și managerilor de proiecte. Încă din 2000 când au intrat pe piață, lucrează la dezvoltarea celor mai puternice și eficiente instrumente de dezvoltare.
 
-* În prezent compania oferă _**28 de produse**_, care folosesc cele mai importante limbaje de programare și tehnologii. Cele mai folosite limbaje de programare sunt _**Java, C\#, PHP, C++, Python, JavaScript etc.**_ 
-* Primul instrument pe care l-au dezvoltat în 2001 este _**IntelliJ IDEA.**_
-* Au dezvoltat și propriile limbaje de programare: _**Koltin**_ și **MPS,** precum și o aplicație de management pentru instrumentele pe care le livrează-_**ToolBox App**_.
-* Oferă acces gratuit la anumite instrumente, în scop educativ, precum _**IntelliJ IDEA, Kotlin, PyCharm, WebStorm, CLion și Go.**_
+* În prezent compania oferă _**28 de produse**_, care folosesc cele mai importante limbaje de programare și tehnologii, cum ar fi _**Java, C\#, PHP, C++, Python, JavaScript,** etc. ****_
+* Au dezvoltat și propriile limbaje de programare: _**Koltin**_ și **MPS,** precum și o aplicație de management pentru instrumentele pe care le livrează - _**ToolBox App**_.
+* Oferă acces gratuit la anumite instrumente, în scop educativ, precum _**IntelliJ IDEA Edu**_, _**Kotlin**_, _**PyCharm Edu**_, _**WebStorm**_, _**CLion**_ și _**Go.**_
 * _**Productivitatea și eficiența**_ îi ghidează în procesul de dezvoltare și îmbunătățire al tool-urilor pe care le oferă. 
 
 {% hint style="info" %}
