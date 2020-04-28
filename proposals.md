@@ -4,7 +4,7 @@ description: >-
   bun şi oferă răspunsuri celorlalţi!
 ---
 
-# ❗️Contribuie şi tu!
+# 📢 Contribuie şi tu!
 
 ## 🙋♂Vreau să ajut
 
