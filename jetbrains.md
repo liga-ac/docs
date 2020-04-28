@@ -23,7 +23,7 @@ description: >-
 
 ![JetBrains Logo](.gitbook/assets/jetbrains_logo_2016.svg)
 
-## ToolBox App
+## 🧰 ToolBox App
 
 <table>
   <thead>
@@ -47,23 +47,23 @@ description: >-
   * Poate instala mai multe versiuni ale aceluiași tool.
   * Se poate integra cu GitHub, GitLab sau Bitbucket și permite clonarea arhivelor direct din browser, cu ajutorul unor extensii.
 
-## Activare licență: JetBrains & Github Student Developer Pack 🎓 
+## 🎓 Activare licență: JetBrains & Github Student Developer Pack 
 
 Pentru a activa licența JetBrains și pentru a obține acces la pachetul gratuit oferit de Github, trebuie **să fii student**. Mai jos sunt pașii pe care trebuie să îi urmăm. 
 
 * Avem în primul rând nevoie să ne înregistrăm pe [JetBrains](https://account.jetbrains.com/login) și pe [Github](https://github.com/join?source=header-home). 
 
-**\[TIPS & TRICKS\]** 
+#### **Tips & Tricks**
 
-* **Licență oferită direct de JetBrains este strict pentru produsele lor, în schimb Github Student Pack ne oferă acces gratuit la o mulțime de alte produse, printre care și JetBrains.**  
-* **Dacă vrem să obținem numai licența pentru JetBrains, putem sări direct la pasul 3.** 
+* Licență oferită direct de JetBrains este strict pentru produsele lor, în schimb Github Student Pack ne oferă acces gratuit la o mulțime de alte produse, printre care și JetBrains.  
+* Dacă vrem să obținem numai licența pentru JetBrains, putem sări direct la **pasul 3**. 
 
 ### Licență prin Github Student Developer Pack 
 
 * Trebuie să ne logăm cu contul de student, pentru a avea acces la pachetul oferit de Github.
 
 {% hint style="info" %}
-**Dacă nu știi cum ai acces la facilitățile oferite de Github Student Pack, poți urmări** [**tutorialul nostru dedicat acestui subiect**](github-student-pack.md)**.** 
+Dacă nu știi cum ai acces la facilitățile oferite de Github Student Pack, poți urmări [tutorialul nostru dedicat acestui subiect](github-student-pack.md). 
 {% endhint %}
 
 1. Pentru a obține licența, accesăm [JetBrains](https://www.jetbrains.com/community/education/?authMethod=github#students)-precum este evidențiat în poza de mai jos.
@@ -83,17 +83,17 @@ Pentru a activa licența JetBrains și pentru a obține acces la pachetul gratui
 4.  După ce aplicăm, primim un email de confirmare și **trebuie să urmăm instrucțiunile din acel email**. 
 
 {% hint style="warning" %}
-**Pentru a avea acces la facilitățile oferite gratuit pentru studenți, este nevoie de folosiți  în formular adresa de email pe care ați primit-o de la Universitatea la care studiați.**  
+Pentru a avea acces la facilitățile oferite gratuit pentru studenți, este nevoie de folosiți  în formular adresa de email pe care ați primit-o de la Universitatea la care studiați.  
 {% endhint %}
 
 ![](.gitbook/assets/image%20%281%29.png)
 
-5.Suntem redirecționați către contul JetBrains unde vedem ID-ul pentru licență. 
+5. Suntem redirecționați către contul JetBrains unde vedem ID-ul pentru licență. 
 
 ![](.gitbook/assets/image%20%2819%29.png)
 
 {% hint style="warning" %}
-**Nu uita, licența este valabilă numai un an și poate fi reînnoită atât timp cât sunteţi studenţi!**
+Nu uita, licența este valabilă numai **un an** și poate fi **reînnoită** atât timp cât sunteţi **studenţi**!
 {% endhint %}
 
 **Felicitării! Acum te poți bucura, ai și mai multe motive să te apuci de codat, free acces la ce vrei tu :\)\)** 
@@ -103,7 +103,7 @@ Pentru a activa licența JetBrains și pentru a obține acces la pachetul gratui
 ## IDE - Integrated Development Environment 
 
 {% hint style="info" %}
-**Ce sunt? Aplicații care oferă programatorilor multiple facilități pentru dezvoltarea software.**
+Ce sunt? Aplicații care oferă programatorilor multiple facilități pentru dezvoltarea software.
 {% endhint %}
 
 * Sunt concepute pentru a **maximiza productivitatea programatorilor, ajută la creșterea vitezei  de realizare a taskurilor și standardizează procesul de dezvoltare.**
@@ -111,7 +111,7 @@ Pentru a activa licența JetBrains și pentru a obține acces la pachetul gratui
 * Unele IDEs se axează pe un singur limbaj de programare, dar tot mai multe dintre ele oferă suport şi pentru altele, în cazul în care proiectul tău este mai complex \(de ex. IntelliJ IDEA\).
 * **IntelliJ IDEA permite folosirea a multiple limbaje, de la Java, Kotlin și până la Scala, Ruby, SQL, Python, PHP, Dart, Go, Groovy, HTML, TypeScript.**
 
-**Cei de la JetBrains susțin că indiferent de tehnologiile pe care le folosim, vom găsi un instrument de-al lor care să ne ajute** 😎 
+Cei de la JetBrains susțin că indiferent de tehnologiile pe care le folosim, vom găsi un instrument de-al lor care să ne ajute ****😎 
 
 **&lt;Insert pozăăă, @Arpi helps&gt; :\)\)** 
 
@@ -126,7 +126,9 @@ Când folosim produsele de la JetBrains, cum am spus și mai sus, e util să fol
 
 ![](.gitbook/assets/image%20%2811%29.png)
 
-**Este de preferat ca după instalarea aceste aplicații, instalarea de noi produse, actualizările și chiar dezinstalarea celor pe care nu le mai folosim, să fie realizate cu ajutorul aplicației.**  
+{% hint style="info" %}
+Este de preferat ca după instalarea aceste aplicații, instalarea de **noi produse**, **actualizările** și chiar **dezinstalarea** celor pe care nu le mai folosim, să fie realizate **cu ajutorul aplicației**. 
+{% endhint %}
 
 <table>
   <thead>
@@ -149,18 +151,18 @@ Când folosim produsele de la JetBrains, cum am spus și mai sus, e util să fol
       </td>
     </tr>
   </tbody>
-</table>1. Selectăm din listă produsul dorit și îl instalăm direct din aplicație cu click pe butonul de Install. 
+</table>1. Selectăm din listă produsul dorit și îl instalăm direct din aplicație cu click pe butonul de **Install**. 
 2. Așteptăm să se instaleze, apoi dăm click pe el :&gt;
 
 ![](.gitbook/assets/image%20%2818%29.png)
 
 ![](.gitbook/assets/image%20%2822%29.png)
 
-3. Urmează activarea licenței. **Pentru că licența este deja în contul JetBrains, în urma obținerii cu ajutorul pașilor de mai sus, nu e nevoie decât să introducem datele contului JetBrains și va fi luată automat.** 
+3. Urmează activarea licenței. Pentru că licența este deja în contul JetBrains, în urma obținerii cu ajutorul pașilor de mai sus, nu e nevoie decât să introducem datele contului JetBrains și va fi luată automat. 
 
 ![](.gitbook/assets/image%20%2820%29.png)
 
-4. ****După ce introducem datele, cu click pe Activate licența este activată pentru tool ul nostru.
+4. ****După ce introducem datele, cu click pe **Activate** licența este activată pentru tool ul nostru.
 
 ![](.gitbook/assets/image%20%288%29.png)
 
