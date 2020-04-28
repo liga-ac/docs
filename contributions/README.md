@@ -12,7 +12,7 @@ description: Lista topicurilor finalizate şi a celor care urmează să fie adă
 ## 🔨 În lucru
 
 * [ ] Cum rezolvi erori în programul tău.
-* [ ] JetBrains şi setul lor de scule.
+* [x] JetBrains şi setul lor de scule.
 * [ ] Coding guidelines.
 
 
