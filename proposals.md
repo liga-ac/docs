@@ -14,7 +14,7 @@ Ne-am bucura foarte mult dacă ţi-ai dori să faci parte din echipa noastră! D
 
 ## 👩‍🏫 Propuneri
 
-Ne poți propune subiecte pe care să le abordăm în viitor deschizând un [Issue pe GitHub](https://github.com/ligaac/docs/issues/new?assignees=&labels=topic&template=propuneri-de-subiecte.md&title=%5BPropunere%5D%20Scrie%20aici%20titlul%20propunerii). Vezi [lista întreagă de propuneri](https://github.com/ligaac/docs/labels/topic).
+Ai în gând un anumit material care ai vrea să fie explicat mai amănunţit? Sau poate un anumit capitol de la o materie? Ne poți propune subiecte pe care să le abordăm în viitor deschizând un [Issue pe GitHub](https://github.com/ligaac/docs/issues/new?assignees=&labels=topic&template=propuneri-de-subiecte.md&title=%5BPropunere%5D%20Scrie%20aici%20titlul%20propunerii). Vezi [lista întreagă de propuneri](https://github.com/ligaac/docs/labels/topic).
 
 ## [Propune un subiect!](https://github.com/ligaac/docs/issues/new?assignees=&labels=topic&template=propuneri-de-subiecte.md&title=%5BPropunere%5D%20Scrie%20aici%20titlul%20propunerii)
 
