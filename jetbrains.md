@@ -18,7 +18,7 @@ description: >-
 * **Productivitatea și eficiența** îi ghidează în procesul de dezvoltare și îmbunătățire al tool-urilor pe care le oferă. 
 
 {% hint style="info" %}
-**Studenții au acces gratuit la** [**tool-urile JetBrains**](https://www.jetbrains.com/products.html#) **și pot accesa licențele pentru acestea cu ajutorul mailului de student, oferit de Universitatea la care studiază.**
+Studenții au acces gratuit la [tool-urile JetBrains](https://www.jetbrains.com/products.html#) și pot accesa licențele pentru acestea cu ajutorul mailului de student, oferit de Universitatea la care studiază.
 {% endhint %}
 
 ![JetBrains Logo](.gitbook/assets/jetbrains_logo_2016.svg)
