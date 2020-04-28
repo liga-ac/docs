@@ -6,7 +6,7 @@ description: >-
 
 # Contribuie şi tu!
 
-## 🙋♂ Vreau să ajut
+## 🙋♂Vreau să ajut
 
 Dacă vrei să scrii un articol sau un tutorial, prin care să împărtăşeşti din cunoştinţele tale, nu ezita să ne contactezi sau să deschizi un [issue pe GitHub](https://github.com/ligaac/docs/issues) în care să specifici că vrei să te ocupi tu de subiect.
 
