@@ -113,8 +113,6 @@ Ce sunt? Aplicații care oferă programatorilor multiple facilități pentru dez
 
 Cei de la JetBrains susțin că indiferent de tehnologiile pe care le folosim, vom găsi un instrument de-al lor care să ne ajute ****😎 
 
-**&lt;Insert pozăăă, @Arpi helps&gt; :\)\)** 
-
 ## Exemplu:
 
 ### Rider: instalarea și activarea licenței 🤯 
