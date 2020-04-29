@@ -136,7 +136,3 @@ Acesta a fost un capitol mai complicat, cu mai multe comenzi, dar cu puțină re
 
 Am trecut și peste **branch**-uri, acestea ne ajută să ne separăm codul în bucăți, ca să nu ne încurcăm cu alți colaboratori și să avem o evidență a ce este în lucru sau e finalizat. Facem un branch nou cu `git checkout -b [nume_branch]` apoi facem commit-uri cum am face normal. Când terminăm de lucrat pe acel branch, facem **merge** la modificări cu master \(sau alt branch în funcție de context\). Mai întâi ne mutăm pe branch-ul în care facem merge cu `git checkout [branch]` și putem face merge-ul cu `git merge [branch_anterior]`. 
 
-
-
-
-
