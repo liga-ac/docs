@@ -6,3 +6,5 @@ Dacă ai găsit greșeli gramaticale, exprimare incorectă, conținut datat sau 
 
 ## [Lasă-ne Feedback pe GitHub](https://github.com/ligaac/docs/issues/new?assignees=&labels=feedback&template=feedback-con-inut.md&title=%5BFeedback%5D+%3Cintrodu+aici+titlul+pe+scurt%3E)
 
+De asemenea, ne poți lăsa un rating ⭐ la fiecare pagină în parte, vezi butoanele în josul paginii! 🙈
+
