@@ -15,5 +15,7 @@ description: Lista topicurilor finalizate şi a celor care urmează să fie adă
 * [ ] JetBrains şi setul lor de scule.
 * [ ] Coding guidelines.
 
+## [Sugerează un topic!](proposals.md)
+
 
 
