@@ -10,5 +10,3 @@
 
 {% embed url="https://dotnetfiddle.net/" caption="Share de cod pentru aplicatii in C\#" %}
 
-
-
