@@ -4,7 +4,7 @@ Ca să putem înțelege mai bine git și cum funcționează el, este important s
 
 ## 💻 Local vs. Remote
 
-În general veți folosi o platformă de genul GitHub, GitLab, etc. unde vă veți ține codul. Acestea se folosesc de sistemul git pentru a putea și ele reține toate modificările la codul vostru, dar ele fac mult mai multe. Vom trece prin câteva exemple pe pagina despre [GitHub](github.md).
+În general veți folosi o platformă de genul GitHub, GitLab, etc. unde vă veți ține codul. Acestea se folosesc de sistemul git pentru a putea și ele reține toate modificările la codul vostru, dar ele fac mult mai multe. Vom trece prin câteva exemple pe pagina despre [GitHub]().
 
 ![https://backlog.com/git-tutorial/creating-a-repository/](../.gitbook/assets/image%20%2821%29.png)
 

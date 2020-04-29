@@ -26,7 +26,7 @@ Acest proces ar fi extrem de epuziant... dar de aceea există **Git**!
 
 \*\*\*\*[**Procesul de lucru cu Git**](procesul-de-lucru-cu-git.md) ****— Intrăm în fundamentele git.
 
-\*\*\*\*[**GitHub**](github.md) ****— Vom folosi GitHub pentru a putea colabora cu alți colegi, vedem cum clonăm repo-ul, cum facem modificări în el, ce sunt Issue-urile, vorbim pe scurt despre Pull Request-uri și vom încheia cu câteva tips & tricks.
+\*\*\*\*[**GitHub**]() ****— Vom folosi GitHub pentru a putea colabora cu alți colegi, vedem cum clonăm repo-ul, cum facem modificări în el, ce sunt Issue-urile, vorbim pe scurt despre Pull Request-uri și vom încheia cu câteva tips & tricks.
 
 \*\*\*\*[**Resurse utile**](resurse-utile.md) ****— Am lăsat aici câteva link-uri utile de care să vă folosiți în aventura voastră cu Git.
 
