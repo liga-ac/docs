@@ -6,8 +6,8 @@ description: Lista topicurilor finalizate şi a celor care urmează să fie adă
 
 ## 🏁 Finalizate
 
-* [x] [Ce este Git](git-istoria-fisierelor-tale/)
-* [x] [GitHub Student Pack](github-student-pack.md)
+* [x] [Ce este Git](docs/git-istoria-fisierelor-tale/)
+* [x] [GitHub Student Pack]()
 
 ## 🔨 În lucru
 

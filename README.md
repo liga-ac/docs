@@ -6,7 +6,7 @@ description: Inițiativa Ligii AC de a face educația de calitate deschisă tutu
 
 > **Educația de calitate** trebuie să fie ușor de accesat, de oriunde, de oricând, de **oricine**.
 
-![Imagine de @element5digital pe Unsplash](.gitbook/assets/image%20%287%29.png)
+![Imagine de @element5digital pe Unsplash](.gitbook/assets/image%20%289%29.png)
 
 Noi, membrii ai Ligii AC am început această inițiativă de crea conținut educațional pentru voi, studenții care doriți să vă dezvoltați, elevii cu visuri mari, dar și vecinului de la 4 cu care te-ai decis să înveți ceva nou! 😉 
 
