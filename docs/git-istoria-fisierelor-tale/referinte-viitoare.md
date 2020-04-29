@@ -4,6 +4,7 @@ Nu degeaba se spune că toată viața învățăm. De aceea, vă las cu mai mult
 
 ## Aprofundează!
 
+* \*\*\*\*[**Ce sunt conflictele** ](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)și cum le rezolvăm?
 * **Creează-ți un website personal** gratuit cu [**GitHub Pages**](https://pages.github.com/)!
 * **Un** [**roadmap**](https://github.com/kamranahmedse/developer-roadmap) ****foarte detaliat **pentru web developeri!**
 * \*\*\*\*[**GitHub Video Guides**](https://www.youtube.com/githubguides)\*\*\*\*

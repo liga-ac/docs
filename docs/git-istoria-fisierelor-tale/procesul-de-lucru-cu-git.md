@@ -130,7 +130,11 @@ Dacă nu înțelegeți prea bine ce se întâmplă, nu vă faceți griji. Cu câ
 
 ![](../../.gitbook/assets/image%20%2822%29.png)
 
+## Concluzie
 
+Acesta a fost un capitol mai complicat, cu mai multe comenzi, dar cu puțină repetiție vei prinde schema. Ca să ne amintim, un repo poate fi **local** \(la tine pe calculator\)  sau **remote** \(pe o platformă gen GitHub\). Putem adăuga un remote la repo-ul nostru cu comanda `git remote add [nume] [URL]`, cu`push` "urcăm" modificările locale pe remote, cu `fetch` vedem dacă există commit-uri făcute de alți colaboratori, cu `pull` aplicăm modificările acestea la noi pe local.
+
+Am trecut și peste **branch**-uri, acestea ne ajută să ne separăm codul în bucăți, ca să nu ne încurcăm cu alți colaboratori și să avem o evidență a ce este în lucru sau e finalizat. Facem un branch nou cu `git checkout -b [nume_branch]` apoi facem commit-uri cum am face normal. Când terminăm de lucrat pe acel branch, facem **merge** la modificări cu master \(sau alt branch în funcție de context\). Mai întâi ne mutăm pe branch-ul în care facem merge cu `git checkout [branch]` și putem face merge-ul cu `git merge [branch_anterior]`. 
 
 
 
