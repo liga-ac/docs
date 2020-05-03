@@ -15,7 +15,6 @@
   * [Publicarea pe GitHub](docs/git-istoria-fisierelor-tale/publicarea-pe-github.md)
   * [Referințe viitoare](docs/git-istoria-fisierelor-tale/referinte-viitoare.md)
 * [GitHub Student Pack](docs/github-student-pack.md)
-<!--* [JetBrains & Tools](jetbrains.md)--->
 
 ## Utile
 
