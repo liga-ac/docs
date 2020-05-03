@@ -20,7 +20,7 @@ Pentru început trebuie să:
 
 * în căsuța text de jos scrie pentru ce ai vrea tu să folosești GitHub Student Pack. 
 
-!\[\]\(../.gitbook/assets/exemplu2%20\(2\).png\)
+![](../.gitbook/assets/exemplu2%20%282%29.png)
 
 **Exemplu text**: "I want to use GitHub student pack for my university's projects along with my colleagues. It brings me a multiple opportunities and can really help me at studying better."
 
