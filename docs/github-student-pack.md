@@ -26,7 +26,7 @@ Pentru început trebuie să:
 
 În scurt timp ar trebui să primești un email de confirmare de la GitHub precum că ai primit pachetul de student GitHub pentru contul tău.
 
-Acum poţi merge să vezi [**lista întreagă de aplicaţii şi licenţe**](https://education.github.com/pack/offers) \_\*\*\_disponibile şi să le încerci pe toate gratuit! Dacă nu eşti foarte sigur cu ce anume să începi, noi îţi propunem să urmăreşti următorul nostru material despre JetBrains şi aplicaţiile lor moderne pentru dezvoltare software😉
+Acum poţi merge să vezi [**lista întreagă de aplicaţii şi licenţe**](https://education.github.com/pack/offers) ****disponibile şi să le încerci pe toate gratuit! Dacă nu eşti foarte sigur cu ce anume să începi, noi îţi propunem să urmăreşti următorul nostru material despre JetBrains şi aplicaţiile lor moderne pentru dezvoltare software😉
 
 {% hint style="warning" %}
 ## Întâmpini dificultăți?
