@@ -11,7 +11,7 @@ Așa cum ți-ai dat seama acest pachet este o posibilitate de a obține programe
 
 Pentru început trebuie să:
 
-* îți creezi un cont [**GitHub**](https://github.com/join?source=header-home) **\*\*cu mail-ul** de student\*\* primit de la universitatea ta.
+* îți creezi un cont [**GitHub**](https://github.com/join?source=header-home) **cu mail-ul** de student primit de la universitatea ta.
 * acesezi pagina de la [**GitHub Student Pack**](https://education.github.com/pack) , unde apeși pe butonul **Get the Pack** .
 * apoi apeși pe butonul **Get Student Benefits.**
 * iar pe pagina deschisă bifează căsuța de la **Student** şi căsuța de langă **adresa ta de mail.**
