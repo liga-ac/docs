@@ -24,7 +24,7 @@ Pentru început trebuie să:
 
 **Exemplu text**: "I want to use GitHub student pack for my university's projects along with my colleagues. It brings me a multiple opportunities and can really help me at studying better."
 
-În scurt timp ar trebui să primești un email de confirmare de la GitHub precum că ai primit pachetul de student GitHub pentru contul tău.
+În scurt timp ar trebui să primești un email de confirmare de la GitHub precum că ai primit pachetul de student GitHub pentru contul tău. Dacă nu l-ai primit în zilele de urmează nu ezita sa mă contactezi.👇
 
 Acum poţi merge să vezi [**lista întreagă de aplicaţii şi licenţe**](https://education.github.com/pack/offers) disponibile şi să le încerci pe toate gratuit! Dacă nu eşti foarte sigur cu ce anume să începi, noi îţi propunem să urmăreşti următorul nostru material despre JetBrains şi aplicaţiile lor moderne pentru dezvoltare software 😉 
 
