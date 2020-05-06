@@ -60,15 +60,15 @@ _**Dacă nu știi cum ai acces la facilitățile oferite de Github Student Pack,
 
 ![](../.gitbook/assets/image%20%2833%29.png)
 
-2. După ce am selectat produsul pe care vrem să îl obținem, [Apply now](https://www.jetbrains.com/shop/eform/students) pentru a avea acces la licență. 
+2.După ce am selectat produsul pe care vrem să îl obținem, [Apply now](https://www.jetbrains.com/shop/eform/students) pentru a avea acces la licență. 
 
 ![](../.gitbook/assets/image%20%2832%29.png)
 
-3. Completăm [formularul](https://www.jetbrains.com/shop/eform/students) care ne apare și ar trebui să fie asemănător cu modelul de mai jos. 
+3.Completăm [formularul](https://www.jetbrains.com/shop/eform/students) care ne apare și ar trebui să fie asemănător cu modelul de mai jos. 
 
 ![](../.gitbook/assets/image%20%2814%29.png)
 
-4. După ce aplicăm, primim un email de confirmare și **trebuie să urmăm instrucțiunile din acel email.**
+4.După ce aplicăm, primim un email de confirmare și **trebuie să urmăm instrucțiunile din acel email.**
 
 {% hint style="danger" %}
 Pentru a avea acces la facilitățile oferite gratuit pentru studenți, este nevoie de folosiți în formular adresa de email pe care ați primit-o de la Universitatea la care studiați.
@@ -76,7 +76,7 @@ Pentru a avea acces la facilitățile oferite gratuit pentru studenți, este nev
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-5. Suntem redirecționați către contul JetBrains unde vedem ID-ul pentru licență. 
+5.Suntem redirecționați către contul JetBrains unde vedem ID-ul pentru licență. 
 
 ![](../.gitbook/assets/image%20%2825%29.png)
 
@@ -139,11 +139,11 @@ _**Este de preferat ca după instalarea aceste aplicații, instalarea de noi pro
 
 ![](../.gitbook/assets/image%20%2826%29.png)
 
-2. După ce introducem datele, cu click pe Activate licența este activată pentru tool ul nostru.
+2.După ce introducem datele, cu click pe Activate licența este activată pentru tool ul nostru.
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
-3. Well, asta e tot. Acum poți începe liniștit să dezvolți aplicații în Rider. Baftăă 😃 
+3.Well, asta e tot. Acum poți începe liniștit să dezvolți aplicații în Rider. Baftăă 😃 
 
 ## Mulțumesc că ați ajuns până aici și sper că acest material te-a ajutat. Stay safe!
 
