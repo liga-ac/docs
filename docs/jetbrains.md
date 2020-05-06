@@ -8,7 +8,7 @@ description: >-
 
 ![](../.gitbook/assets/jetbrains-apps.png)
 
-## Despre JetBrains 🧐
+## Despre JetBrains 🥁 
 
 > Misiunea JetBrains  
 > _\_"\_We make professional software development a more productive and enjoyable experience._"
