@@ -56,7 +56,7 @@ Dacă vrem să obținem numai licența pentru JetBrains, putem sări direct la p
 _**Dacă nu știi cum ai acces la facilitățile oferite de Github Student Pack, poți urmări**_ [_**tutorialul nostru dedicat acestui subiect**_](github-student-pack.md)_**.**_
 {% endhint %}
 
-1. Pentru a obține licența, accesăm [JetBrains](https://www.jetbrains.com/community/education/?authMethod=github#students) - precum este evidențiat în poza de mai jos.
+1.Pentru a obține licența, accesăm [JetBrains](https://www.jetbrains.com/community/education/?authMethod=github#students) - precum este evidențiat în poza de mai jos.
 
 ![](../.gitbook/assets/image%20%2833%29.png)
 
@@ -135,15 +135,15 @@ _**Este de preferat ca după instalarea aceste aplicații, instalarea de noi pro
 
 ![](../.gitbook/assets/image%20%2828%29.png)
 
-1. Urmează activarea licenței. _**Pentru că licența este deja în contul JetBrains, în urma obținerii cu ajutorul pașilor de mai sus, nu e nevoie decât să introducem datele contului JetBrains și va fi luată automat.**_ 
+1.Urmează activarea licenței. _**Pentru că licența este deja în contul JetBrains, în urma obținerii cu ajutorul pașilor de mai sus, nu e nevoie decât să introducem datele contului JetBrains și va fi luată automat.**_ 
 
 ![](../.gitbook/assets/image%20%2826%29.png)
 
-1. \__\*\*_\_După ce introducem datele, cu click pe Activate licența este activată pentru tool ul nostru.
+2. După ce introducem datele, cu click pe Activate licența este activată pentru tool ul nostru.
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
-1. Well, asta e tot. Acum poți începe liniștit să dezvolți aplicații în Rider. Baftăă 😃 
+3. Well, asta e tot. Acum poți începe liniștit să dezvolți aplicații în Rider. Baftăă 😃 
 
 ## Mulțumesc că ați ajuns până aici și sper că acest material te-a ajutat. Stay safe!
 
