@@ -31,6 +31,6 @@ Acum poţi merge să vezi [**lista întreagă de aplicaţii şi licenţe**](http
 {% hint style="warning" %}
 ## Întâmpini dificultăți?
 
-Contactează-mă la adresa ✉ david.lacatusu@ligaac.ro sau mă găsești pe 🌐 [Facebook](https://www.facebook.com/David.Lacatusu16)
+Contactează-mă la adresa ✉ **vlad.valean@ligaac.ro** sau mă găsești pe 🌐 [Facebook](https://www.facebook.com/vlad.valean.31). De asemenea, nu uita să dai un rating la tutorialele noastre! 👇 🙏
 {% endhint %}
 

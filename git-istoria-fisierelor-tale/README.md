@@ -37,6 +37,6 @@ Nu prea multe, conexiune la internet \(pe care o ai deja dacă citești asta\), 
 {% hint style="warning" %}
 ## Întâmpini dificultăți?
 
-Conteactează-mă la adresa ✉ **hello@arpadgabor.com** sau mă găsești pe 🌐 [Facebook](https://messenger.com/t/arpi.gabor).
+Contactează-mă la adresa ✉ **vlad.valean@ligaac.ro** sau mă găsești pe 🌐 [Facebook](https://www.facebook.com/vlad.valean.31). De asemenea, nu uita să dai un rating la tutorialele noastre! 👇 🙏
 {% endhint %}
 

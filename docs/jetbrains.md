@@ -152,6 +152,6 @@ _**Este de preferat ca după instalarea aceste aplicații, instalarea de noi pro
 {% hint style="warning" %}
 ## Întâmpini dificultăți?
 
-Contactează-mă la adresa📩 _papdeni11@gmail.com_ sau mă găsești pe 🌐 [Facebook](https://www.facebook.com/denisa.pap.9) .
+Contactează-mă la adresa ✉ **vlad.valean@ligaac.ro** sau mă găsești pe 🌐 [Facebook](https://www.facebook.com/vlad.valean.31). De asemenea, nu uita să dai un rating la tutorialele noastre! 👇 🙏
 {% endhint %}
 
